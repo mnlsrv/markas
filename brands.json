@@ -1,0 +1,4815 @@
+[{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24912"
+  },
+  "name": "38 GRAUS",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "38_graus.png",
+  "homepage": "https://38graus.com/",
+  "facebook": "https://facebook.com/38-GRAUS-1179146188871389/",
+  "instagram": "https://instagram.com/38_graus/",
+  "description": {
+    "pt": "Somos uma marca de biquinis, mas não só mais uma. Somos resistentes à temperatura e àquilo que não dura. Somos 38 Graus.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24913"
+  },
+  "name": "A Loja do Gato Preto",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "gato_preto.png",
+  "homepage": "https://alojadogatopreto.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/gatopreto_livingspaces/",
+  "description": {
+    "pt": "Nascemos em 1986, numa altura em que existia pouca oferta de decoração para a casa, com a ambição de dar a conhecer a beleza do artesanato que é feito de norte a sul do país. Contamos com uma oferta para as mais diversas áreas da decoração para a casa, combinando coleções exclusivas concebidas por nós e também peças selecionadas nos melhores produtores mundiais.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24914"
+  },
+  "name": "A Oficina dos Presentes",
+  "categories": [
+    "artesanato"
+  ],
+  "image": "AOficinadosPresentes.jpg",
+  "homepage": "https://aoficinadospresentes.pt/",
+  "facebook": "https://facebook.com/AOficinadosPresentes/",
+  "instagram": "https://www.instagram.com/aoficinadospresentes/",
+  "description": {
+    "pt": "Atelier pioneiro de presentes 100% personalizados em Portugal criado a 18.4.2001. Não havia no mercado nada igual quando este foi criado; a ideia para o mesmo foram as lojas de Arts & Crafts existentes na cidade onde a dona do atelier viveu e estudou, Bournemouth. Foi a essas lojas que visitava enquanto aí residiu que se inspirou e depois adicionou mais uns pozinhos de perlimpimpim e estava desenhada a ideia d’ A Oficina dos Presentes.",
+    "en": "Pioneer workshop of 100% personalized gifts in Portugal created on 18.4.2001. There was nothing like it on the market when it was created; the idea for it was the Arts & Crafts stores in the city where the owner of the craft studio lived and studied, Bournemouth. It was to these stores that she visited while she resided there that she was inspired and then added a few more little magic powder and the idea of A Oficina dos Presentes was drawn."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24915"
+  },
+  "name": "A Padaria Portuguesa",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "apadariaportuguesa.png",
+  "homepage": "https://apadariaportuguesa.pt/",
+  "facebook": "https://facebook.com/apadariaportuguesa/",
+  "instagram": "https://instagram.com/apadariaportuguesa/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24916"
+  },
+  "name": "A Tarte",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "a_tarte.png",
+  "homepage": "https://atarte.pt/",
+  "facebook": "https://facebook.com/amelhortartedeamendoa/",
+  "instagram": "https://instagram.com/atarteportugal/",
+  "description": {
+    "pt": "Todos temos um sonho que gostávamos de ver realizado. O nosso era fazer a melhor tarte de amêndoa que alguma vez fora feita. A melhor tarte de amendoa do mundo nasceu pelas mãos do Vasco, em sua casa. E porque das pequenas coisas nascem grandes ideias, decidimos dar asas ao nosso sonho e tornarmo-nos ambiciosos – fazer da tarte do Vasco, a melhor tarte de amendoa do mundo.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24917"
+  },
+  "name": "Aatma Art",
+  "categories": [
+    "decoracao",
+    "artesanato"
+  ],
+  "image": "aatma.art.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/aatma.art/",
+  "description": {
+    "pt": "Aatma = alma em hindu, e é isso mesmo que colocamos em cada peça de macramé criada. Feito em Sintra, Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24918"
+  },
+  "name": "ABD d'Chocolate",
+  "categories": [
+    "alimentacao",
+    "chocolate"
+  ],
+  "image": "abc_d_chocolate.png",
+  "homepage": "https://abcdchocolate.com/",
+  "facebook": "https://facebook.com/Chocolatesdasonia/",
+  "instagram": "https://instagram.com/abc_d_chocolate/",
+  "description": {
+    "pt": "Todos os nossos produtos são confecionados e decorados de forma artesanal, utilizando matéria prima de alta qualidade, como o chocolate belga. Bombons com ou sem recheio. Tabletes com recheios incríveis, rústicos, Trufas, festas e Chocolate sem açúcar. chocolate de 54,5%, 70,5%, de Leite, Branco e 54% sem açúcar.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24919"
+  },
+  "name": "Açai com Granola",
+  "categories": [
+    "roupa-mulher",
+    "beachswimwear"
+  ],
+  "image": "acaicomgranola.png",
+  "homepage": "https://acaicomgranola.pt/",
+  "facebook": "https://facebook.com/acaicomgranola/",
+  "instagram": "https://instagram.com/acaicomgranola/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2491a"
+  },
+  "name": "Acushla",
+  "categories": [
+    "azeite"
+  ],
+  "image": "acushla_evoo.png",
+  "homepage": null,
+  "facebook": "https://facebook.com/acushlawithpassion/",
+  "instagram": "https://instagram.com/acushla_evoo/",
+  "description": {
+    "pt": "Azeite Virgem Extra Biológico produzido em Vila Flor, Trás-os-Montes e Alto Douro.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2491c"
+  },
+  "name": "alice & co.",
+  "categories": [
+    "joalharia",
+    "bijuteria"
+  ],
+  "image": "alicecostore.png",
+  "homepage": "https://alicecostore.com/",
+  "facebook": "https://facebook.com/alicecostore/",
+  "instagram": "https://instagram.com/alicecostore/",
+  "description": {
+    "pt": null,
+    "en": "alice & co. is a portuguese brand that is attentive to trends for woman and girls who love timeless and contemporary pieces."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2491d"
+  },
+  "name": "Alma com Duas Mãos",
+  "categories": [
+    "artesanato",
+    "ceramica",
+    "decoracao"
+  ],
+  "image": "almacomduasmaos.png",
+  "homepage": "https://almacomduasmaos.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/almacomduasmaos/",
+  "description": {
+    "pt": null,
+    "en": "Alma com Duas Mãos brings together unique and exclusive ceramic pieces 100% handmade. This project aims to enhance the creativity and craftsmanship of artists who, through the melody of their two hands, express what goes on in their souls. Because all the artists we work with are like that, unique souls with two hands that show their being through what they create daily."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2491e"
+  },
+  "name": "ALMA de LUCE",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "almadeluce_interiors.png",
+  "homepage": "https://almadeluce.com/",
+  "facebook": "https://facebook.com/almadeluce/",
+  "instagram": "https://instagram.com/almadeluce_interiors/",
+  "description": {
+    "pt": null,
+    "en": "Designing and crafting unique pieces of furniture that inspire us to be passionate and fearless guardians of the World Heritage. A luxury statement & Inspiring Furniture."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2491f"
+  },
+  "name": "Alma Hannae",
+  "categories": [
+    "bijuteria",
+    "artesanato"
+  ],
+  "image": "alma.hannae.png",
+  "homepage": "https://almahannae.wixsite.com/almahannae/",
+  "facebook": null,
+  "instagram": "https://instagram.com/alma.hannae/",
+  "description": {
+    "pt": "Alma Hannae apresenta pequenas peças feitas a partir de elementos da terra, da natureza. Todas as peças de artesanato são feitas à mão por Ana Almeida em Lisboa, Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24920"
+  },
+  "name": "Aly John",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "aly_john_denim.png",
+  "homepage": "https://alyjohn.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/aly_john_denim/",
+  "description": {
+    "pt": "A Aly John nasceu do sonho de criar jeans, com personalidade. Com um know-how de trinta anos na área da indústria do denim, o fundador da marca acredita que o que torna as Aly John tão especiais é o resultado harmonioso entre savoir-faire, a sensibilidade da mão humana, a escolha da matéria prima e o desenvolvimento do fitting certo.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24921"
+  },
+  "name": "Alzira",
+  "categories": [
+    "decoracao",
+    "ilustracoes"
+  ],
+  "image": "alziraillustration.png",
+  "homepage": "https://alziraillustration.com/shop",
+  "facebook": "https://facebook.com/alziraillustration/",
+  "instagram": "https://instagram.com/alziraillustration/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24922"
+  },
+  "name": "Alzuleycha",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "alzuleycha.png",
+  "homepage": "https://alzuleycha.com/",
+  "facebook": "https://facebook.com/alzuleycha/",
+  "instagram": "https://instagram.com/alzuleycha/",
+  "description": {
+    "pt": null,
+    "en": "We are inspired by Portuguese architecture and one of its most identifiable characteristic, namely wall tiles. In the Portuguese language tile is azulejo, whose etymological root is the Arabic word azzelij (or al zuleycha, al zulaco) which means \"small polished stone\". ALZULEYCHA honors and praises the long and rich Portuguese architecture heritage, perpetuating the architectural and design details in decoration pieces. "
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24923"
+  },
+  "name": "ambar:",
+  "categories": [
+    "material-escritorio"
+  ],
+  "image": "ambarideiasnopapel.png",
+  "homepage": "https://ambar.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/ambarideiasnopapel/",
+  "description": {
+    "pt": "A AMBAR tem produtos para escritório, como pastas de arquivo, arquivadores, cadernos e bolsas, material escolar, incluindo mochilas e estojos, material de utilização pessoal, como organizers, agendas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24925"
+  },
+  "name": "Amor é Cego",
+  "categories": [
+    "azeite"
+  ],
+  "image": "azeiteamorecego.png",
+  "homepage": "https://azeiteamorecego.pt/",
+  "facebook": "https://facebook.com/azeiteamorecego/",
+  "instagram": null,
+  "description": {
+    "pt": "Azeite Amor é Cego é o sentimento que nos move, é a paixão que temos pela nossa terra, na família há três gerações e que com muito esforço e carinho temos conservado.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24927"
+  },
+  "name": "Ananás",
+  "categories": [
+    "decoracao",
+    "artesanato"
+  ],
+  "image": "ananasbordados.png",
+  "homepage": null,
+  "facebook": "https://facebook.com/Ananasbordados/",
+  "instagram": "https://instagram.com/ananasbordados/",
+  "description": {
+    "pt": "Bordados à mão personalizados e contemporâneos - cada peça pode tornar-se um elemento decorativo único.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24928"
+  },
+  "name": "ANDA",
+  "categories": [
+    "decoracao",
+    "ilustracoes"
+  ],
+  "image": "andaanda_art.png",
+  "homepage": "https://etsy.com/shop/andaillustration/",
+  "facebook": null,
+  "instagram": "https://instagram.com/andaanda_art/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492a"
+  },
+  "name": "Antiflop",
+  "categories": [
+    "acessorios"
+  ],
+  "image": "antiflop.png",
+  "homepage": "https://antiflop.pt/",
+  "facebook": "https://facebook.com/ANTIFLOP.PT/",
+  "instagram": "https://instagram.com/antiflop/",
+  "description": {
+    "pt": "Nasceu a partir de um pensamento: “ E se uma Obra de Arte pudesse ser usada…”. A fundadora da marca, Tété, com experiência na área de Moda e com paixão pela Arte criou o conceito desta marca Portuguesa que tem como principal ambição levar a Arte para o quotidiano das pessoas de uma forma simples, usar!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492b"
+  },
+  "name": "Antiga Barbearia De Bairro",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "antiga_barbearia_de_bairro.png",
+  "homepage": null,
+  "facebook": "https://facebook.com/antigabarbeariadebairro/",
+  "instagram": "https://instagram.com/antiga_barbearia_de_bairro/",
+  "description": {
+    "pt": "Marca Portuguesa que se inspira nas barbearias antigas e nos bairros típicos Portugueses. Inspire o aroma. Feche os olhos. Viaje connosco até aos bairros de outros tempos onde a barba se fazia a navalha, com sabão e pincel.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492c"
+  },
+  "name": "Aqui Há Peça",
+  "categories": [
+    "ceramica",
+    "decoracao"
+  ],
+  "image": "aqui.ha.peca.png",
+  "homepage": "https://aquihapeca.pt/",
+  "facebook": "https://facebook.com/aqui.ha.peca",
+  "instagram": "https://instagram.com/aqui.ha.peca/",
+  "description": {
+    "pt": "Aqui Há Peça é uma marca que produz e comercializa peças de cerâmica, trabalhamos com várias fábricas e autores portugueses. A nossa simplicidade, elegância e a forma como apresentamos cuidadosamente os nossos produtos. Cada peça é a “PEÇA” especial para o local e momento e tratada como se fosse única.",
+    "en": "Aqui Há Parte is a brand that produces and sells ceramic pieces, we work with several factories and Portuguese authors.Our simplicity, elegance and the way we carefully present our products. Each piece is the special “PIECE” for the place and time and treated as if it were unique."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492d"
+  },
+  "name": "ÁRAS",
+  "categories": [
+    "bijuteria",
+    "roupa-mulher"
+  ],
+  "image": "arasbyinesoliveira.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/arasbyinesoliveira/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492e"
+  },
+  "name": "Arcádia",
+  "categories": [
+    "alimentacao",
+    "chocolate"
+  ],
+  "image": "arcadia.png",
+  "homepage": "https://arcadiachocolates.com/",
+  "facebook": "https://facebook.com/arcadiachocolates",
+  "instagram": "https://instagram.com/arcadiachocolates/",
+  "description": {
+    "pt": "Os chocolates artesanais Arcádia são cuidadosamente pensados e confecionados. O nosso percurso secular faz parte da História e relaciona-se com a identidade do País, sem nunca perder a capacidade de inovar. Confecionamos bombons premium, de alta qualidade que transmitem parte da nossa identidade e que passam de geração em geração.",
+    "en": "Arcádia handmade chocolates are carefully thought out and produced. Our secular course is part of history and relates to the identity of the country, without ever losing the ability to innovate. We make premium, high quality chocolates that transmit part of our identity and that pass from generation to generation."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2492f"
+  },
+  "name": "Armazém das Malhas",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios",
+    "meias",
+    "sapatos"
+  ],
+  "image": "armazemdasmalhas.png",
+  "homepage": "https://armazemdasmalhas.com/",
+  "facebook": "https://facebook.com/armazemdasmalhaslx/",
+  "instagram": "https://instagram.com/armazemdasmalhas/",
+  "description": {
+    "pt": "Localizado nos Anjos, um dos bairros icónicos de Lisboa, o Armazém das Malhas é um negócio familiar com mais de 50 anos de história, que iniciou a sua actividade nos anos 40 com a produção e comercialização de vestuário têxtil. Aliando a herança de uma técnica artesanal a matérias-primas certificadas, a marca portuguesa cria peças intemporais, desde malhas a calçado, para serem usadas ao longo de uma vida.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24930"
+  },
+  "name": "Aromas da Villa ",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "aromasdavillasaboaria.png",
+  "homepage": "https://aromasdavilla.com/",
+  "facebook": "https://facebook.com/aromasdavillacondeixa/",
+  "instagram": "https://instagram.com/aromasdavillasaboaria/",
+  "description": {
+    "pt": "A marca de sabonetes artesanais premium para uso diário!”. Produzimos sabonetes artesanais, naturais, à base de azeite virgem extra Português, a partir de Condeixa-a-Nova, Portugal. Somos uma marca eco-friendly, com design, qualidade artesanal a preços competitivos!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24931"
+  },
+  "name": "Arte Nova",
+  "categories": [
+    "joalharia"
+  ],
+  "image": "artenovajewellery.png",
+  "homepage": "https://artenovajewellery.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/artenovajewellery/",
+  "description": {
+    "pt": "A Arte Nova Jewellery nasceu em 2019, contudo a sua história começou muito antes, pelas mãos de um visionário, que em 1956 se lançou para criar o que é hoje uma empresa líder no fabrico e criação de joias de prata e ouro. Hoje, com a terceira geração, a empresa continua com o maior legado deixado pelo seu fundador – a sua inovação, criatividade e dinamismo, mas sobretudo mantendo a tradição.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24932"
+  },
+  "name": "As Belinhas",
+  "categories": [
+    "artesanato",
+    "malas",
+    "bebe-criancas"
+  ],
+  "image": "as_belinhas.png",
+  "homepage": "https://asbelinhas.com/",
+  "facebook": "https://facebook.com/asbelinhas/",
+  "instagram": "https://instagram.com/as_belinhas/",
+  "description": {
+    "pt": "As Belinhas é um projeto que nasceu pela mão de duas pessoas inseparáveis, mãe e filha. Utilizamos matérias-primas nacionais como a folha de palma, a juta, as linhas de algodão utilizadas nas técnicas de bordados à mão, do crochet e do macramé. Tudo é imaginado e criado por nós. Tudo é cosido à mão, tudo é desenhado à mão. Adicionando sempre à tradição, alguns elementos de modernidade, tornando As Belinhas uma marca contemporânea.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24933"
+  },
+  "name": "as Deolindas",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "asdeolindas.png",
+  "homepage": "https://asdeolindas.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/asdeolindas/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24934"
+  },
+  "name": "ASPORTUGUESAS",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "asportuguesasshoes.png",
+  "homepage": "https://asportuguesas.shoes",
+  "facebook": "https://facebook.com/asportuguesasshoes/",
+  "instagram": "https://instagram.com/asportuguesasshoes/",
+  "description": {
+    "pt": null,
+    "en": "ASPORTUGUESAS are a new footwear concept which doesn't leave the Planet's sustainability barefoot. We are proud to be the world's first cork flip-flops brand, using a 100% natural raw material."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24935"
+  },
+  "name": "B-Mum",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "bmumworld.png",
+  "homepage": "https://b-mum.com/",
+  "facebook": "https://facebook.com/bmumworld/",
+  "instagram": "https://instagram.com/bmumworld/",
+  "description": {
+    "pt": "A B-Mum é uma empresa Portuguesa que surgiu como resultado da experiência fantástica de ser MÃE.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24936"
+  },
+  "name": "Ballūta",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "balluta.shoes.png",
+  "homepage": "https://balluta-shoes.com/",
+  "facebook": "https://facebook.com/BallutaShoes/",
+  "instagram": "https://instagram.com/balluta.shoes/",
+  "description": {
+    "pt": null,
+    "en": "Created by Catarina Pedroso, Ballūta is a footwear brand connecting fashion, sustainability and art. Each piece is handmade in Portugal and crafted from carefully sourced high-end vegan materials."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24937"
+  },
+  "name": "Barkyn",
+  "categories": [
+    "animais"
+  ],
+  "image": "barkyn.png",
+  "homepage": "https://barkyn.com/",
+  "facebook": "https://facebook.com/barkyndogs/",
+  "instagram": "https://instagram.com/barkyn/",
+  "description": {
+    "pt": "Ração adaptada entregue à sua porta e acompanhamento veterinário online.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24938"
+  },
+  "name": "BARS",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal",
+    "aromas"
+  ],
+  "image": "bars_cosmeticanatural.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/bars_cosmeticanatural/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b24939"
+  },
+  "name": "Bat eye",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "BatEye.com.pt.png",
+  "homepage": "https://bateye.com/ ",
+  "facebook": "https://facebook.com/BatEye.com.pt/",
+  "instagram": "https://instagram.com/bateye/",
+  "description": {
+    "pt": null,
+    "en": "From the noblest of materials and precise detail, excellence and uniqueness will arise and from the passion we put in what we do, a perfect piece will one day surface."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2493a"
+  },
+  "name": "bauy",
+  "categories": [
+    "roupa-mulher",
+    "malas",
+    "acessorios",
+    "bijuteria"
+  ],
+  "image": "bauy____.png",
+  "homepage": "https://bauyoutfitters.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/bauy____/",
+  "description": {
+    "pt": "A Bauy é uma marca Portuguesa criada em 2019. Design e produção de todo o vestuário em Portugal. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2493b"
+  },
+  "name": "bedattitude",
+  "categories": [
+    "decoracao",
+    "texteis-lar"
+  ],
+  "image": "bedattitude.png",
+  "homepage": "https://bedattitude.pt/",
+  "facebook": "https://facebook.com/bedattitudecz/",
+  "instagram": "https://instagram.com/bedattitude/",
+  "description": {
+    "pt": "A Bedattitude personaliza os teus desenhos, as tuas fotografias, as tuas frases, os teus poemas, enfim, a tua imaginação em produtos têxteis para a tua casa. Personalização de fronhas de almofada e sacos de edredão.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2493c"
+  },
+  "name": "Beesweet ",
+  "categories": [
+    "alimentacao",
+    "mel"
+  ],
+  "image": "beesweetbeesweet.png",
+  "homepage": "https://beesweet.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/beesweetbeesweet/",
+  "description": {
+    "pt": "A Beesweet comercializa Mel e néctar 100% português, orgânico, livre de glúten e de alergénios, criado de forma artesanal por duas jovens primas, apaixonadas pelas Abelhas pela inovação e pelo Mel.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7ef6dc149d936b2493d"
+  },
+  "name": "BeiraNova",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "beiranova.indcongelados.png",
+  "homepage": "http://beiranova.pt/",
+  "facebook": "https://facebook.com/beiranova.indcongelados/",
+  "instagram": "https://instagram.com/beiranova.indcongelados/",
+  "description": {
+    "pt": "Fundada em finais do ano 2000, junta os factores humanos e financeiros necessários para assegurar a boa qualidade dos seus produtos e das condições de trabalho dos colaboradores, com vista a um proveito final para o consumidor como até agora não existia no sector do pescado congelado.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2493e"
+  },
+  "name": "Benamôr",
+  "categories": [
+    "cosmetica"
+  ],
+  "image": "benamor1925.png",
+  "homepage": "https://benamor1925.com/",
+  "facebook": "https://facebook.com/benamor1925",
+  "instagram": "https://instagram.com/benamor1925/",
+  "description": {
+    "pt": "A Benamôr foi fundada no ano de 1925, em Lisboa, por um apotecário misterioso que criava pomadas milagrosas no seu laboratório do Campo Grande nº189. As suas receitas de beleza eram preparadas com perfumes únicos e ingredientes naturais que se encontravam em Portugal: limão, rosa, aloe vera ou óleo de amêndoas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2493f"
+  },
+  "name": "Bianca Rouge Black",
+  "categories": [
+    "bijuteria",
+    "artesanato",
+    "decoracao"
+  ],
+  "image": "biancarougeblack.png",
+  "homepage": "https://biancarougeblack.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/biancarougeblack/",
+  "description": {
+    "pt": null,
+    "en": "Handmade ceramic accessories like earrings and necklaces. We also have decoration elements like windchimes. Visit our knitting section with buttons and specific stuff! Create a unique bracelet combing days, letters and symbols with our Just Yours medals. Packaging 99% sustainable :)"
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24940"
+  },
+  "name": "BioVó",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "bio_vo.png",
+  "homepage": "https://biovo.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/bio_vo/",
+  "description": {
+    "pt": "A BioVó é uma marca registada, Portuguesa e propriedade de Verónica Paiva, responsável pela produção de cosméticos naturais e saboaria.  Somos uma Unidade Produtiva Artesanal reconhecida com Carta nº 123572. Todos os produtos da BioVó são produzidos de forma artesanal, apenas com ingredientes de origem natural e vegetal, sem recurso a ingredientes de origem animal. Todos os produtos são cruelty free e vegan.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24941"
+  },
+  "name": "BLANCDATE",
+  "categories": [
+    "roupa-mulher",
+    "bijuteria"
+  ],
+  "image": "blancdate.png",
+  "homepage": "https://store.blancdate.pt/",
+  "facebook": "https://facebook.com/blancdate",
+  "instagram": "https://instagram.com/blancdate/",
+  "description": {
+    "pt": "BLANCDATE é uma linha de roupa subtraída à essência, em tempo e forma. Porque: “o minimalismo está para lá do tempo. É a quietude da perfeição” (massimo vigneli)",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24942"
+  },
+  "name": "Bô Slings",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "boslingsbabywearing.png",
+  "homepage": "https://boslings.pt/",
+  "facebook": "https://facebook.com/boslings/",
+  "instagram": "https://instagram.com/boslingsbabywearing/",
+  "description": {
+    "pt": null,
+    "en": "Babywearing wraps and ring slings made in Portugal. We are here to give you strong, humble, eclectic and timeless baby-carriers."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24943"
+  },
+  "name": "Boca do Lobo",
+  "categories": [
+    "mobiliario",
+    "decoracao"
+  ],
+  "image": "bocadolobostudio.png",
+  "homepage": "https://bocadolobo.com/en/ ",
+  "facebook": "https://facebook.com/bocadolobostudio/",
+  "instagram": null,
+  "description": {
+    "pt": null,
+    "en": "Boca do Lobo aims to reinterpret fine craftsmanship through contemporary design to create exclusive furniture pieces that appeal to the most demanding tastes."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24944"
+  },
+  "name": "BOHEMIAN ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "bohemianswimwear.png",
+  "homepage": "https://bohemianswimwear.com/",
+  "facebook": "https://facebook.com/BohemianSwimwear/",
+  "instagram": "https://instagram.com/bohemianswimwear/",
+  "description": {
+    "pt": "Bohemian Swimwear é uma marca de biquínis e fatos de banho inspirada em grandes viagens e praias exóticas e dirigida às mulheres mais exigentes que procuram algo sofisticado e exclusivo.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24945"
+  },
+  "name": "Bolas da Praia",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "bolasdapraia.png",
+  "homepage": "https://bolasdapraia.com/",
+  "facebook": "https://facebook.com/bolasdapraia/",
+  "instagram": "https://instagram.com/bolasdapraia/",
+  "description": {
+    "pt": "Faz parte do imaginário de todos nós aquelas Bolas de Berlim saboreadas na praia. A nossa aposta é transportar para locais diferentes e inesperados esse imaginário.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24946"
+  },
+  "name": "Bolina",
+  "categories": [
+    "cerveja"
+  ],
+  "image": "cerveja_bolina.png",
+  "homepage": "https://cervejabolina.pt/",
+  "facebook": "https://facebook.com/cervejabolina/",
+  "instagram": "https://instagram.com/cerveja_bolina/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24947"
+  },
+  "name": "Bordallo Pinheiro",
+  "categories": [
+    "ceramica",
+    "decoracao"
+  ],
+  "image": "bordallopinheiroofficial.png",
+  "homepage": "https://pt.bordallopinheiro.com/",
+  "facebook": "https://facebook.com/bordallopinheiro.official/",
+  "instagram": "https://instagram.com/bordallopinheiroofficial/",
+  "description": {
+    "pt": "Adotando uma postura moderna e empreendedora, a Bordallo Pinheiro desempenha um papel essencial na revitalização, nacional e internacional, da cerâmica portuguesa e do património artístico do fundador da Fábrica de Faianças Artísticas, Raphael Bordallo Pinheiro.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24948"
+  },
+  "name": "BOW ",
+  "categories": [
+    "beachswimwear",
+    "acessorios"
+  ],
+  "image": "bow_bestonwater.png",
+  "homepage": "https://bowswimwear.com/pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/bow_bestonwater/",
+  "description": {
+    "pt": "BOW - Best on Water, é uma marca portuguesa de beachwear. Em Outubro de 2013, a BOW nasce no Campeonato do Mundo de Surf, em Peniche (Portugal), onde equipou todos os atletas em prova. No verão de 2014, lança a sua primeira coleção de biquinis e fatos de banho para adultos e crianças.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24949"
+  },
+  "name": "BYOU",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "byou_patriciagouveia.png",
+  "homepage": "https://byoubb.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/byou_patriciagouveia/",
+  "description": {
+    "pt": "A BYOU nasceu em 2013 pela mão da Patrícia Gouveia, que estimulada por um gosto pessoal e um jeito nato para desenhar e criar, aprendeu desde cedo a costurar com a mãe. Mais tarde aperfeiçoou-se com as costureiras que hoje a ajudam a dar forma às suas criações. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2494a"
+  },
+  "name": "Cabo D'Mar",
+  "categories": [
+    "acessorios"
+  ],
+  "image": "cabodemar.png",
+  "homepage": "https://cabodemar.com/",
+  "facebook": "https://facebook.com/CabodeMar/",
+  "instagram": "https://instagram.com/cabodemar/",
+  "description": {
+    "pt": " Cabo d’Mar é fundada na paixão e no respeito pelo mar. A nossa empresa está sediada em Viana do Castelo, na costa noroeste de Portugal, onde o mar é agitado e a natureza é bela. Hoje, a Cabo d’Mar cria uma linha acessórios de inspiração náutica feita de materiais conhecidos na vela, na pesca e no surf e cada uma das suas peças é executada à mão por verdadeiros especialistas do mar – pescadores reformados.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2494b"
+  },
+  "name": "Cacao Di Vine ",
+  "categories": [
+    "alimentacao",
+    "chocolate"
+  ],
+  "image": "cacaodivinechocolate.png",
+  "homepage": "https://cacaodivine.pt/",
+  "facebook": "https://facebook.com/Cacaodivine/",
+  "instagram": "https://instagram.com/cacaodivinechocolate/",
+  "description": {
+    "pt": "A Cacao Di Vine é uma marca de Chocolates com sede de reinventar a forma como se produz chocolate.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2494d"
+  },
+  "name": "CAIA",
+  "categories": [
+    "beachswimwear",
+    "acessorios"
+  ],
+  "image": "caiabeachwear.png",
+  "homepage": "https://caiabeachwear.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/caiabeachwear/",
+  "description": {
+    "pt": "A CAIA é uma marca de verão. Nascida e criada em Lisboa, Portugal, e fundada por Inês Fortunato. Fã incondicional de praia, um dia percebeu que lhe faltava algo \"uma almofada de praia gira e confortável\". A CAIA nasceu em 2012 para todos os que gostam de um bom dia de praia, mas que não dispensam conforto e estilo. Com uma produção 100% nacional, a qualidade, o conforto e o design são os pilares da marca.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2494e"
+  },
+  "name": "CAIXEIRO",
+  "categories": [
+    "azeite"
+  ],
+  "image": "azeitecaixeiro.png",
+  "homepage": "https://azeitecaixeiro.pt/",
+  "facebook": "https://facebook.com/pg/azeitecaixeiro/",
+  "instagram": "https://instagram.com/azeitecaixeiro/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2494f"
+  },
+  "name": "Camille",
+  "categories": [
+    "acessorios",
+    "oculos-sol",
+    "bijuteria"
+  ],
+  "image": "camillejewels.lisbon.png",
+  "homepage": "https://camillejewels.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/camillejewels.lisbon/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24950"
+  },
+  "name": "Camport",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "camport_pt.png",
+  "homepage": "https://camport.pt/pt/",
+  "facebook": "https://facebook.com/Camport.Portugal/",
+  "instagram": "https://instagram.com/camport_pt/",
+  "description": {
+    "pt": "A Camport é uma marca portuguesa de calçado masculino e feminino, cuja missão é criar produtos modernos e de alta qualidade, aliando o conforto às últimas tendências de moda. Na sua origem está uma reconhecida fábrica de calçado fundada em 1955, à qual ficou associado o título de “Universidade do Calçado”: a Campeão Português.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24951"
+  },
+  "name": "Cantê ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "cantelisboa.png",
+  "homepage": "https://cantelisboa.com/",
+  "facebook": "https://facebook.com/cantelisboa/",
+  "instagram": "https://instagram.com/cantelisboa/",
+  "description": {
+    "pt": "Cantê nasceu dos dias de sol e praia, do mar e das viagens partilhadas por Mariana Delgado e Rita Soares. Desde 2011 que as duas transformaram espírito jovem em biquínis, triquínis e fatos-de-banho exclusivos, explorando o pormenor e a criatividade que surge da combinação única de cores e padrões.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24952"
+  },
+  "name": "Cantinho das Aromáticas",
+  "categories": [
+    "alimentacao",
+    "bebidas",
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "cantinhoaromaticas.png",
+  "homepage": "https://cantinhodasaromaticas.pt/",
+  "facebook": "https://facebook.com/cantinhoaromaticas/",
+  "instagram": "https://instagram.com/cantinhoaromaticas/",
+  "description": {
+    "pt": "O Cantinho das Aromáticas é uma empresa agrícola que tem como principais finalidades a produção, secagem, embalamento e comercialização de ervas aromáticas secas, produzidas em Agricultura Biológica. Comercializa os seus 56 produtos finais de altíssima qualidade com a marca Cantinho das Aromáticas, estando distribuídos em duas linhas distintas – linha de infusões e linha de condimentos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24953"
+  },
+  "name": "Captain Tom",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "captain.tom.brand.png",
+  "homepage": "https://captaintombrand.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/captain.tom.brand/",
+  "description": {
+    "pt": "A Captain Tom é uma marca sustentável, simples e feminina. Os nossos artigos são feitos à mão, utilizando tecidos regenerados a partir de plástico retirado dos Oceanos, tornando-os recicláveis. Proporcionamos um atendimento personalizado para que possa criar um bikini totalmente à sua escolha e, comprar partes de cima e de baixo em tamanhos diferentes!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24954"
+  },
+  "name": "Cardslab",
+  "categories": [
+    "jogos-brinquedos"
+  ],
+  "image": "cardslabgames.png",
+  "homepage": "https://cardslabgames.com/",
+  "facebook": "https://facebook.com/CardsLabGames/",
+  "instagram": "https://instagram.com/cardslabgames/",
+  "description": {
+    "pt": "A CardsLab é uma startup portuguesa de jogos de tabuleiro, que ambiciona revolucionar o mercado de jogos didácticos e de cultura geral.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24955"
+  },
+  "name": "Carolina Curado ",
+  "categories": [
+    "joalharia",
+    "bijuteria"
+  ],
+  "image": "carolinacurado.png",
+  "homepage": "https://carolinacurado.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/carolinacurado/",
+  "description": {
+    "pt": "As melhores criações nascem do invulgar e a prova está aqui: uma bióloga transformada em joalheira e uma publicitária com uma vontade de construir um projecto próprio - estes foram os ingredientes necessários para nascer a marca Carolina Curado. Com um forte complemento natural, a sua abordagem da joalharia passa pela influência das formas orgânicas presentes na fauna e flora que as rodeiam.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24956"
+  },
+  "name": "Castelbel",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "castelbelporto.png",
+  "homepage": "https://castelbel.com/pt",
+  "facebook": "https://facebook.com/CastelbelPorto/",
+  "instagram": "https://instagram.com/castelbelporto/",
+  "description": {
+    "pt": "A Castelbel é uma empresa portuguesa internacionalmente conhecida pela qualidade dos seus sabonetes de luxo e fragrâncias para o lar.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24957"
+  },
+  "name": "Cata Vassalo",
+  "categories": [
+    "joalharia",
+    "acessorios",
+    "bijuteria"
+  ],
+  "image": "catavassalo.png",
+  "homepage": "https://catavassalo.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/catavassalo/",
+  "description": {
+    "pt": "Somos uma marca de joalharia portuguesa que se orgulha de desenhar e produzir manualmente peças únicas, alinhadas com o conceito de slow fashion, que permitem dar voz à identidade e sonhos de cada Mulher portuguesa. Não fazemos acessórios, criamos peças exclusivas que expressam a feminilidade pessoal e única que existe em cada Mulher. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24959"
+  },
+  "name": "Chiacare",
+  "categories": [
+    "cosmetica"
+  ],
+  "image": "chiacare.png",
+  "homepage": "https://chiacare.pt/",
+  "facebook": "https://facebook.com/CHIACARE/",
+  "instagram": "https://instagram.com/chiacare/",
+  "description": {
+    "pt": "A nossa empresa foi constituída com a segurança de que a cosmética não pode ser eficaz se não se apoiar em Fórmulas Concentradas e Multifuncionais, provenientes das últimas descobertas médicas e comprovados clinicamente. Oferecemos produtos esplêndidos, inovadores e tecnologicamente comprovados para a pele.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2495a"
+  },
+  "name": "Citadin ",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "citadinshoes.png",
+  "homepage": "https://citadinshoes.com/collections",
+  "facebook": null,
+  "instagram": "https://instagram.com/citadinshoes/",
+  "description": {
+    "pt": "A Citadin é um negócio familiar, liderado por uma avó com muito bom gosto e que acredita que a qualidade não tem necessariamente que ser cara. O conceito é oferecer sapatos de boa qualidade a um preço razoável. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2495b"
+  },
+  "name": "Citrina",
+  "categories": [
+    "alimentacao",
+    "decoracao"
+  ],
+  "image": "citrinaplants.png",
+  "homepage": "https://citrina-plants.com/",
+  "facebook": "https://facebook.com/CitrinaPlants/",
+  "instagram": "https://instagram.com/citrinaplants/",
+  "description": {
+    "pt": "Quando se é apaixonado por plantas cítricas, de trabalhar lado a lado com a Mãe Natureza para garantir que elas prosperam, é instintivo. É essa paixão que nos inspirou a criar a família de plantas cítricas ornamentais em miniatura Citrina no início de 1980.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2495c"
+  },
+  "name": "Claus Porto",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "clausporto.png",
+  "homepage": "https://clausporto.com/",
+  "facebook": "https://facebook.com/clausporto1887/",
+  "instagram": "https://instagram.com/clausporto/",
+  "description": {
+    "pt": "A Claus Porto é uma casa de perfumes, produtos de beleza e lifestyle nascida no Porto em 1887.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2495e"
+  },
+  "name": "CLEOME ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "cleome.png",
+  "homepage": "https://cleome.co/",
+  "facebook": "https://facebook.com/cleome.co",
+  "instagram": "https://instagram.com/cleome/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2495f"
+  },
+  "name": "Concha",
+  "categories": [
+    "bijuteria"
+  ],
+  "image": "concha.design.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/concha.design/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24960"
+  },
+  "name": "Coração Bobo ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "cb.coracaobobo.png",
+  "homepage": "https://coracaobobo.com/",
+  "facebook": "https://facebook.com/cb.coracaobobo/",
+  "instagram": "https://instagram.com/cb.coracaobobo/",
+  "description": {
+    "pt": "Coração Bobo swimwear é uma marca portuguesa de roupa de praia que procura resolver uma das maiores dores de cabeça do público feminino: minimizar as marcas do bronzeado.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24961"
+  },
+  "name": "COSTA NOVA",
+  "categories": [
+    "artesanato",
+    "ceramica",
+    "decoracao"
+  ],
+  "image": "costanovatableware.png",
+  "homepage": "https://costanova.pt/",
+  "facebook": "https://facebook.com/costanovatableware/",
+  "instagram": "https://instagram.com/costanovatableware/",
+  "description": {
+    "pt": "A marca cria coleções de mesa em grés ﬁno, aliando qualidade e design à melhor tradição europeia de fabrico cerâmico. Os produtos em grés da COSTA NOVA são inovadores e sustentáveis, produzidos a partir dos melhores recursos naturais em Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24962"
+  },
+  "name": "Couto",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "couto.sa.png",
+  "homepage": "https://www.couto.pt/",
+  "facebook": "https://facebook.com/COUTO1918/",
+  "instagram": "https://instagram.com/couto.sa/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24964"
+  },
+  "name": "CUBANAS",
+  "categories": [
+    "malas",
+    "sapatos"
+  ],
+  "image": "cubanas_shoes.png",
+  "homepage": "http://cubanas-shoes.com/",
+  "facebook": "https://facebook.com/cubanas.pt/",
+  "instagram": "https://instagram.com/cubanas_shoes/",
+  "description": {
+    "pt": "A CUBANAS é uma marca portuguesa de calçado e malas. Inicialmente o nosso foco era apenas o fabrico de calçado, mas depressa cresceu e tornou-se numa marca com design e produção próprio e assinado. O design do nosso calçado foca-se em linhas femininas e em cores fortes e linhas elegantes.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24966"
+  },
+  "name": "CUTXI CUTXI",
+  "categories": [
+    "roupa-mulher",
+    "acessorios",
+    "bijuteria",
+    "decoracao"
+  ],
+  "image": "cutxicutxi.store.png",
+  "homepage": "https://cutxicutxi.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/cutxicutxi.store/",
+  "description": {
+    "pt": "Apostando sempre na originalidade, personalização e no design das peças, a CutxiCutxi cria através de processos essencialmente manuais, peças únicas ou de edição limitada, divertidas, e todas com sentido prático, para serem usadas por toda a família ou para celebrar um momento único da vida.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24967"
+  },
+  "name": "DCK",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "dckboardshorts.png",
+  "homepage": "https://dckboardshorts.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/dckboardshorts/",
+  "description": {
+    "pt": null,
+    "en": "In 2009, three friends went on a trip to Bali, Indonesia and noticed that there was a product in abundance that was very hard to find in Portugal, their home country – it was Men’s Swimshorts. So, they decided to bring a bag full of these shorts home, in which they printed a logo and quickly made up a name for – it was the initial letter of each of their names – DCK"
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24968"
+  },
+  "name": "DECENIO",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "beachswimwear",
+    "meias",
+    "sapatos"
+  ],
+  "image": "decenio.png",
+  "homepage": "https://decenio.com/",
+  "facebook": "https://facebook.com/deceniofashion/",
+  "instagram": "https://instagram.com/decenio/",
+  "description": {
+    "pt": "A Decenio Mediterrano é uma marca clássica, no sentido moderno da palavra. As nossas coleções visam a colaboração como parte do segredo da inovação, sabendo que a criatividade é contagiante.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24969"
+  },
+  "name": "Decoflorália",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "decofloralia.png",
+  "homepage": "https://decofloralia.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/decofloralia/",
+  "description": {
+    "pt": null,
+    "en": "Decoflorália is Portugal’s premium floral designer, event provider and flower shop."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496a"
+  },
+  "name": "DIELMAR",
+  "categories": [
+    "roupa-homem",
+    "sapatos",
+    "acessorios",
+    "malas"
+  ],
+  "image": "dielmar1965.png",
+  "homepage": "https://dielmar.pt/",
+  "facebook": "https://facebook.com/Dielmar/",
+  "instagram": "https://instagram.com/dielmar1965/",
+  "description": {
+    "pt": "A DIELMAR é uma marca 100% portuguesa líder na confeção de vestuário masculino, direcionada para o segmento médio/alto. Fundada em 1965 por quatro alfaiates, a DIELMAR começou por ser uma pequena alfaiataria tradicional. O nome emblemático da empresa representa a junção das iniciais dos nomes dos quatro fundadores: Dias, Hélder, Mateus e Ramiro",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496b"
+  },
+  "name": "Diwia",
+  "categories": [
+    "roupa-mulher",
+    "bijuteria"
+  ],
+  "image": "diwia.store.png",
+  "homepage": "https://diwia.pt/",
+  "facebook": "https://facebook.com/diwia.store/",
+  "instagram": "https://instagram.com/diwia.store/",
+  "description": {
+    "pt": "A Diwia é uma marca portuguesa, de vestuário e acessório, com design e confeção próprios. Mais do que uma marca, é um conceito. O objetivo é proporcionar positividade e confiança às mulheres que a usam.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496c"
+  },
+  "name": "DOL",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "dol_portugal.png",
+  "homepage": "https://dolportugal.store/",
+  "facebook": "https://www.facebook.com/dolportugal.store/",
+  "instagram": "https://instagram.com/dol_portugal/",
+  "description": {
+    "pt": "Da Madeira para o Mundo. A arte do calçado português! Uma marca de calçado sonhada por duas mulheres e inspirada na beleza da ilha da Madeira. A DOL Portugal, fundada por Sofia Drummond e Sara Lopes, apresenta a primeira coleção, Emotions, nascida em São João da Madeira, pelas mãos de artesãos qualificados na arte do calçado português.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496d"
+  },
+  "name": "DONSILIA PROFESSIONAL",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "donsiliaprofessional.jpg",
+  "homepage": "https://donsiliaprofessional.pt/",
+  "facebook": "https://facebook.com/donsiliaprofessional/",
+  "instagram": "https://instagram.com/donsiliaprofessional/",
+  "description": {
+    "pt": "Linha exclusiva de produtos Profissionais de Cabeleireiro denominada Donsilia Professional ® sendo esta uma marca Leiriense 100% Nacional",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496e"
+  },
+  "name": "Dora Guimarães",
+  "categories": [
+    "roupa-mulher",
+    "sapatos"
+  ],
+  "image": "doraguimaraesofficial.png",
+  "homepage": "https://doraguimaraes.com/",
+  "facebook": "https://facebook.com/ByDoraGuimaraes/",
+  "instagram": "https://instagram.com/doraguimaraesofficial/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2496f"
+  },
+  "name": "Doublemann",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "hello.doublemann.png",
+  "homepage": "https://doublemann.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/hello.doublemann/",
+  "description": {
+    "pt": "Paineis decorativos para interiores de fácil instalação.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24970"
+  },
+  "name": "DUARTE",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher"
+  ],
+  "image": "duartebrand.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/duartebrand/",
+  "description": {
+    "pt": null,
+    "en": "Duarte focuses on mixing and creating different textures essentially through the use of leather, knitwear, technological fabrics and unique prints. The pieces are all about the details, quality finishes and materials. Allying classic tailoring and sportswear techniques, the garments are made to last a lifetime."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24971"
+  },
+  "name": "Eco.Hair",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "eco.haircosmetics.png",
+  "homepage": "https://ecohaircosmetics.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/eco.haircosmetics/",
+  "description": {
+    "pt": "Somos uma empresa nacional, com orgulho nas suas raízes e cultura. Criamos a marca eco.hair para ir ao encontro das necessidades do consumidor urbano atual, que gosta de cuidar da sua imagem, exigente nos produtos, preocupado com o ambiente, consciente na hora de comprar.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24972"
+  },
+  "name": "Ecolã ",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios"
+  ],
+  "image": "ecola.png",
+  "homepage": "https://ecolaportugal.com/",
+  "facebook": "https://facebook.com/EcolaPortugal/",
+  "instagram": "https://instagram.com/ecola.portugal/",
+  "description": {
+    "pt": "A Ecolã, situada em Manteigas, é uma Unidade Produtiva Artesanal certificada, de origem familiar (terceira geração), que acompanha todo o ciclo da lã.  A Ecolã fabrica e comercializa produtos em Burel 100% lã ovelha, tais como: vestuário e acessórios, cobertores e mantas para decoração da casa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24973"
+  },
+  "name": "Enamorata",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "enamorataswimwear.png",
+  "homepage": "http://enamorata.pt/",
+  "facebook": "https://facebook.com/EnamorataPT/",
+  "instagram": "https://instagram.com/enamorataswimwear/",
+  "description": {
+    "pt": "A Enamorata é uma empresa com marca registada que se dedica à criação, produção e distribuição de coleções próprias de Swimwear para homem e senhora.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24974"
+  },
+  "name": "Entrudo",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "entrudopt.png",
+  "homepage": "https://entrudo.com/",
+  "facebook": "https://facebook.com/entrudopt/",
+  "instagram": "https://instagram.com/entrudopt/",
+  "description": {
+    "pt": "A Entrudo foi criada em 2017, nascendo de um projeto familiar, no seio da união e criatividade, aliado ao facto de vivermos em Felgueiras, Terra do Calçado. O nosso primeiro objetivo foi criar uma coleção diferente e, por gostarmos tanto do Carnaval, aliamos ao mesmo uma tradição portuguesa tão nossa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24975"
+  },
+  "name": "FIU Jardins Suspensos",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "fiujardinssuspensos.jpg",
+  "homepage": "https://fiujardinssuspensos.com/",
+  "facebook": "https://www.facebook.com/fiujardinssuspensos",
+  "instagram": "https://instagram.com/fiujardinssuspensos/",
+  "description": {
+    "pt": "FIU Jardins Suspensos® trata-se da reconversão de uma técnica Japonesa, denominada kokedama. A construção das plantas é inteiramente manual, um trabalho de moldagem da terra que envolve as raízes e musgo. São suspensas por um fio, possibilitando uma decoração com plantas diferente. Inspirados pelo conceito Wabi Sabi, a FIU eleva as plantas a outro nível, associada a novas tendências de decoração de interior com plantas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24976"
+  },
+  "name": "FORA ",
+  "categories": [
+    "oculos-sol"
+  ],
+  "image": "fora_sunglasses.png",
+  "homepage": "https://fora.pt/",
+  "facebook": "https://facebook.com/FORAsunglasses/",
+  "instagram": "https://instagram.com/fora_sunglasses/",
+  "description": {
+    "pt": null,
+    "en": "FORA was born in Lisbon, in 2014 with a strong passion for vintage eyewear and sunglasses design. From the very beginning we focused on building our brand foundations. We stopped and took a look inside ourselves to find the things that have built us and the places we lived in, the people we met and the memories we have."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24977"
+  },
+  "name": "Foreva",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "foreva.oficial.png",
+  "homepage": "https://foreva.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/foreva.oficial/",
+  "description": {
+    "pt": "Nascida em Portugal em Setembro de 1984, com a abertura da primeira loja FOREVA na elitista Rua Guerra Junqueiro em Lisboa, tem hoje lojas de rua em todos os grandes centros urbanos e está presente na maioria de Centros comerciais do território nacional. A Foreva é uma marca de calçado 100% Portuguesa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24978"
+  },
+  "name": "Frenzy Nation",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "frenzynation.png",
+  "homepage": "https://frenzy.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/frenzynation/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24979"
+  },
+  "name": "Friday Store",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "fridaystorept.png",
+  "homepage": "https://fridaystore.pt/",
+  "facebook": "https://facebook.com/fridaystore.pt/",
+  "instagram": "https://instagram.com/fridaystorept/",
+  "description": {
+    "pt": "A Friday Store é uma loja de roupas online onde encontra todo o tipo de roupas femininas, sejam vestidos compridos, calças de ganga ou blusas. A missão da empresa é ajudar a elevar a auto-estima das mulheres, disponibilizando artigos que lhes permitam melhorar a sua imagem sem comprometer o seu orçamento disponível.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2497a"
+  },
+  "name": "Futah",
+  "categories": [
+    "acessorios",
+    "meias",
+    "beachswimwear",
+    "malas"
+  ],
+  "image": "futah.png",
+  "homepage": "https://futah.world/",
+  "facebook": "https://facebook.com/futah.world/",
+  "instagram": "https://instagram.com/futah/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2497c"
+  },
+  "name": "Ghome",
+  "categories": [
+    "mobiliario",
+    "decoracao"
+  ],
+  "image": "ghome.pt.png",
+  "homepage": "https://ghome.pt/",
+  "facebook": "https://facebook.com/Ghomification/",
+  "instagram": "https://instagram.com/ghome.pt/",
+  "description": {
+    "pt": "A Ghome é uma marca portuguesa de mobiliário e acessórios para a casa. Utilizamos matérias primas nacionais e todos os produtos são produzidos localmente. Sem intermediários, escolhemos vender-te os nossos produtos directamente. Como estamos muito próximos dos nossos fabricantes, existe quase sempre a possibilidade de podermos personalizar o produto que tu gostas, adaptando-o a ti e ao teu espaço.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2497d"
+  },
+  "name": "Gionvanni Galli",
+  "categories": [
+    "roupa-homem",
+    "sapatos",
+    "acessorios"
+  ],
+  "image": "giovannigallistore.png",
+  "homepage": "https://giovannigallistore.com/",
+  "facebook": "https://facebook.com/giovannigallistore/",
+  "instagram": null,
+  "description": {
+    "pt": "A Giovanni Galli é hoje uma marca de referência no panorama nacional da moda masculina. Conta com mais de 50 lojas em todo o mundo. Tendo sido criada em 1992, a Giovanni Galli pertence ao Grupo Unifato, empresa com capital 100% português.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2497e"
+  },
+  "name": "GLADZ ",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "gladz.shoes.png",
+  "homepage": "https://gladz.pt/",
+  "facebook": "https://facebook.com/gladz.shoes/",
+  "instagram": "https://instagram.com/gladz.shoes/",
+  "description": {
+    "pt": "Produzida em Vila de Cucujães, no Norte de Portugal, a Gladz alia a frescura de uma equipa criativa curiosa à tradição artesanal de grandes mestres sapateiros. O design moderno encontra o saber fazer que caracteriza a nossa industria, com resultados num produto de excelência.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2497f"
+  },
+  "name": "Gleba",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "gleba_padaria.png",
+  "homepage": "https://gleba-nossa.pt/",
+  "facebook": "https://facebook.com/glebapadaria/",
+  "instagram": "https://instagram.com/gleba_padaria/",
+  "description": {
+    "pt": "O melhor pão artesanal de fermentação natural, produzido a partir de cereais 100% portugueses, moídos em mós de pedra. Trazemos de volta o pão que os nossos avós comiam, um produto natural, nutritivo, saudável e extremamente saboroso. Receba-o em sua casa!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24980"
+  },
+  "name": "Globe",
+  "categories": [
+    "roupa-mulher",
+    "sapatos",
+    "malas",
+    "bijuteria"
+  ],
+  "image": "globe.pt.png",
+  "homepage": "https://globe.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/globe.pt/",
+  "description": {
+    "pt": "A Globe honra um ideal de elegância \"bon chic, bon genre\" que assenta num estilo clássico contemporâneo e que nos remete para figuras icónicas como Grace Kelly ou Jackline Kennedy. Criada nos anos 80 em Espanha, celebra este ano 25 anos de existência em Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24982"
+  },
+  "name": "Gotik Gin",
+  "categories": [
+    "bebidas",
+    "gin"
+  ],
+  "image": "gotikgin.png",
+  "homepage": "https://gotik.pt/",
+  "facebook": "https://facebook.com/GotikGin/",
+  "instagram": "https://instagram.com/gotikgin/",
+  "description": {
+    "pt": "GOTIK é uma marca MVPGIN, criada para o primeiro gin do Ribatejo. O nome surge em homenagem à nossa cidade, Santarém, a capital do gótico. Todos os nossos gin são também uma homenagem a um dos nossos monumentos do estilo arquitectónico gótico.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24983"
+  },
+  "name": "Gracedition",
+  "categories": [
+    "roupa-mulher",
+    "oculos-sol"
+  ],
+  "image": "gracedition.png",
+  "homepage": "https://gracedition.com/",
+  "facebook": "https://facebook.com/gracedition/",
+  "instagram": "https://instagram.com/gracedition/",
+  "description": {
+    "pt": "Em 2016, a Gracedition foi criada com base no fascínio pela moda e novas tendências exclusivas. A Mulher Gracedition segue as tendências da moda internacionais, mas sempre de forma original. You Are Your Own Edition.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24984"
+  },
+  "name": "GREENSENSE",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "greensense.cosmetics.png",
+  "homepage": "https://greensensecosmetics.com/",
+  "facebook": "https://facebook.com/greensense.cosmetics/",
+  "instagram": "https://instagram.com/greensense.cosmetics/",
+  "description": {
+    "pt": "Na GREENSENSE criamos produtos com ingredientes naturais, orgânicos, vegan e sustentáveis, sempre a pensar em ti e no nosso planeta.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24985"
+  },
+  "name": "HARPER",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "harper_pt.png",
+  "homepage": "https://harper.pt/ ",
+  "facebook": null,
+  "instagram": "https://instagram.com/harper_pt/",
+  "description": {
+    "pt": "HARPER é uma marca de calçado handmade, 100% Portuguesa, com muito orgulho de assim o ser e que nasce de uma paixão comum de duas amigas. Uma marca que evidência mulheres com personalidade que rompem estereótipos e criam o seu próprio percurso. Vivem as suas vidas assim como elas querem, independentes e determinadas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24986"
+  },
+  "name": "Hassu",
+  "categories": [
+    "joalharia",
+    "acessorios",
+    "bijuteria"
+  ],
+  "image": "hassustore.png",
+  "homepage": "https://hassu.pt/",
+  "facebook": "https://facebook.com/hassustore/",
+  "instagram": "https://instagram.com/hassustore/",
+  "description": {
+    "pt": "A HASSU é a marca de jóias em Aço 316L da Flamingo S.A., destinada a um público jovem e irreverente. Todas as jóias e alianças HASSU são produzidas exclusivamente em aço 316L, cirúrgico e anti-alérgico. No mercado desde 2005, a HASSU apresenta uma oferta em jóias para Mulher e para Homem, sendo ainda especializada no segmento de alianças.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24987"
+  },
+  "name": "Hazel",
+  "categories": [
+    "roupa-mulher",
+    "beachswimwear"
+  ],
+  "image": "hazelbrand.png",
+  "homepage": "https://hazelportugal.com/",
+  "facebook": "https://facebook.com/hazel.brand.pt",
+  "instagram": "https://instagram.com/hazelbrand/",
+  "description": {
+    "pt": "A Hazel é uma marca feminina 100% produzida e confeccionada em Portugal. Uma marca produzida por mulheres e para mulheres que gostam de se sentir bonitas e elegantes todos os dias.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24988"
+  },
+  "name": "HC - Hello Ceramics",
+  "categories": [
+    "artesanato",
+    "ceramica"
+  ],
+  "image": "hc_hello_ceramics.jpeg",
+  "homepage": "https://www.hchelloceramics.com/",
+  "facebook": "https://www.facebook.com/HCHelloCeramics/",
+  "instagram": "https://instagram.com/hc_hello_ceramics/",
+  "description": {
+    "pt": "Somos uma empresa umbrella da fábrica de cerâmica AlcoaArte. A HC - Hello Ceramics foi criada em 2019 para representar e dar a conhecer ao mundo cibernauta todos os produtos desenvolvidos pela sua empresa mãe. Embora a HC esteja no mercado à um ano a AlcoaArte conta com mais de 15 anos de experiência em cerâmicas de excelência.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24989"
+  },
+  "name": "Homelab",
+  "categories": [
+    "decoracao",
+    "texteis-lar"
+  ],
+  "image": "homelabportugal.png",
+  "homepage": "https://homelab.pt/",
+  "facebook": "https://facebook.com/homelabportugal/",
+  "instagram": "https://instagram.com/homelabportugal/",
+  "description": {
+    "pt": "A Homelab é uma marca que usufrui de produção própria e comercialização para o sector de têxteis lar, com foco principal em Hotelaria e Home fashion. Destaca-se pelo design que acompanha sempre as novas tendências, com uma infinidade de padrões e também pela qualidade e conforto.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498a"
+  },
+  "name": "Homes in Heaven",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "homesinheaven.png",
+  "homepage": "https://homesinheaven.com/",
+  "facebook": "https://facebook.com/homesinheaven/",
+  "instagram": null,
+  "description": {
+    "pt": "A Homes in Heaven, fábrica de mobiliário intemporal pintado numa vasta gama de cores e trabalhado por artesãos qualificados em Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498b"
+  },
+  "name": "Humbs",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "humbsoriginals.png",
+  "homepage": "https://humbs.co/",
+  "facebook": "https://facebook.com/humbsoriginals/",
+  "instagram": "https://instagram.com/humbsoriginals/",
+  "description": {
+    "pt": null,
+    "en": "Humbs was born from the need to develop an innovative casual brand of shoes with a strong attitude and personality. It all started with two friends, Hugo Stevens and Miguel Tavares, complimenting each others' shoes. As simple as that. Sometimes the best ideas arise from the most casual circumstances."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498c"
+  },
+  "name": "HYENA",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "hyenatailormade.png",
+  "homepage": "https://hyena.pt/",
+  "facebook": "https://facebook.com/HYENATailorMade/",
+  "instagram": "https://instagram.com/hyenatailormade/",
+  "description": {
+    "pt": "A HYENA é a expressão da arte minimalista no feminino. Linhas sofisticadas e cortes puristas que conferem intemporalidade. Formas e detalhes pontuados pela versatilidade dos modelos. Tecidos e texturas que se transformam em peças únicas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498d"
+  },
+  "name": "I Love Cork",
+  "categories": [
+    "sapatos",
+    "acessorios",
+    "malas",
+    "material-escritorio",
+    "bijuteria",
+    "cortica"
+  ],
+  "image": "ilovecork.portugal.png",
+  "homepage": "http://marlapais.com/",
+  "facebook": "https://facebook.com/ilovecork.pt/",
+  "instagram": "https://instagram.com/ilovecork.portugal/",
+  "description": {
+    "pt": "A marca Marla Pais / I Love Cork dedica-se ao design e produção de acessórios em pele de cortiça. O nosso principal objectivo é realçar a nobreza e a sustentabilidade da cortiça: um produto natural e amigo do ambiente. Simplicidade, perfeição e inovação constituem o nosso desafio.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498e"
+  },
+  "name": "Indagatio",
+  "categories": [
+    "roupa-homem",
+    "acessorios",
+    "ilustracoes"
+  ],
+  "image": "indagatio.png",
+  "homepage": "https://indagatiostore.com/",
+  "facebook": "https://facebook.com/indagatio/",
+  "instagram": "https://instagram.com/indagatio/",
+  "description": {
+    "pt": null,
+    "en": "INDAGATIO is a Portuguese brand which designs apparel to be used in the mountains, but which boasts an elegant fit for urban living."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2498f"
+  },
+  "name": "Indi Lisbon",
+  "categories": [
+    "roupa-mulher",
+    "bijuteria"
+  ],
+  "image": "indi_lisbon.png",
+  "homepage": "https://indilisbon.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/indi_lisbon/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24990"
+  },
+  "name": "Inês Telles",
+  "categories": [
+    "joalharia"
+  ],
+  "image": "inestelles_jewelry.png",
+  "homepage": "https://inestelles.com/",
+  "facebook": "https://facebook.com/inestelles.jewelry/",
+  "instagram": "https://instagram.com/inestelles_jewelry/",
+  "description": {
+    "pt": "Inês é a joalheira que dá o nome à marca de jóias Inês Telles. Criadas sob processos manuais e tradicionais da joalharia no seu estúdio-oficina em Lisboa, as jóias Inês Telles, feitas em prata e ouro, compõem cuidadas e pequenas colecções num jeito exclusivo para quem as queira sentir.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24992"
+  },
+  "name": "Iswari",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "iswariofficial.png",
+  "homepage": "https://iswari.com/",
+  "facebook": "https://facebook.com/Iswari.Portugal/",
+  "instagram": "https://instagram.com/iswariofficial/",
+  "description": {
+    "pt": "A marca Iswari oferece uma vasta gama de produtos conhecidos como superalimentos, alimentos de alto teor em micronutrientes (vitaminas lipossolúveis, hidrossolúveis, sais minerais e oligoelementos) com elevados benefícios para a saúde.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24993"
+  },
+  "name": "Jinja ",
+  "categories": [
+    "artesanato",
+    "decoracao"
+  ],
+  "image": "jinja_ritual.png",
+  "homepage": "https://jinjaritual.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/jinja_ritual/",
+  "description": {
+    "pt": "Jinja concebe e produz uma grande variedade de produtos originais, realizados 100% à mão, pela reutilização de desperdícios têxtil. A designer portuguesa Norma Silva, fundou a Jinja no Porto, em 2012, com o objectivo de transformar e melhorar o ambiente duma forma sustentável, pela partilha de agradáveis rituais e produtos que o acompanham no seu dia-a-dia.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24995"
+  },
+  "name": "Joplins",
+  "categories": [
+    "oculos-sol"
+  ],
+  "image": "joplins.jpg",
+  "homepage": "https://wearjoplins.com/",
+  "facebook": "https://facebook.com/joplinssunglasses/",
+  "instagram": "https://www.instagram.com/joplins_sunglasses/",
+  "description": {
+    "pt": null,
+    "en": "Joplins started back in 2016 out of a feeling to make things different. Our founder, an outdoor person and an always traveler, wore sunglasses along with his whole life. He thought it could be a good idea of uniting something he likes to wear to a purpose, promote a more ecologically sustainable lifestyle and develop an eyewear eco-friendly business."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24996"
+  },
+  "name": "JOSÉ",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "jose.gourmet.png",
+  "homepage": "https://josegourmet.com/",
+  "facebook": "https://facebook.com/JoseGourmet/",
+  "instagram": "https://instagram.com/jose.gourmet/",
+  "description": {
+    "pt": "Levar produtos gastronómicos, genuinamente portugueses,  até ao consumidor, estimulando os seus sentidos, foi o ponto de partida da JOSÉ.  Reiventamos a apresentação destes tornando-os mais distintos, chegando assim a novos mercados.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24997"
+  },
+  "name": "Josefinas",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "josefinasportugal.png",
+  "homepage": "https://josefinas.com/",
+  "facebook": "https://facebook.com/JosefinasPT/",
+  "instagram": "https://instagram.com/josefinasportugal/",
+  "description": {
+    "pt": "As Josefinas são uma marca portuguesa que nasceu de um sonho. Num país em plena crise, onde sonhar tinha pouco espaço, o fazer sapatos à mão ganhou novo nome: Josefinas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24998"
+  },
+  "name": "Juliana Bezerra",
+  "categories": [
+    "joalharia",
+    "bijuteria"
+  ],
+  "image": "julianabezerrajewellery.png",
+  "homepage": "https://julianabezerra.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/julianabezerrajewellery/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24999"
+  },
+  "name": "Just Burel ",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "justburel.png",
+  "homepage": "https://justburel.com/",
+  "facebook": "https://facebook.com/Justburel/",
+  "instagram": "https://instagram.com/justburel/",
+  "description": {
+    "pt": "Just Burel é uma marca registada Portuguesa que cria e produz calçado casual, chapelaria e acessórios em lã. Um de nossos objetivos é usar o BUREL, um tecido de lã de produção artesanal usado pelos pastores da Serra da Estrela para fazer suas roupas e protegê-los do frio, da chuva e da neve.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499a"
+  },
+  "name": "Kaoâ",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "kaoa.png",
+  "homepage": "https://kaoashop.com/",
+  "facebook": null,
+  "instagram": null,
+  "description": {
+    "pt": "A Kaoâ nasceu numa loja de retalho multimarca. Apesar de ser uma marca até então desconhecida, os fundadores Adriana e Alexandre perceberam que as suas próprias criações vendiam muito mais do que as restantes marcas nas prateleiras. Desenhadas pela própria Adriana, as peças são criadas para tornar as mulheres mais confiantes em todos os momentos da vida. Peças únicas mas acessíveis que promovem o caráter feminino.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499b"
+  },
+  "name": "Kiln",
+  "categories": [
+    "tableware"
+  ],
+  "image": "kilncompany.png",
+  "homepage": "https://thekilncompany.com/",
+  "facebook": "https://facebook.com/thekilncompany/",
+  "instagram": "https://instagram.com/kilncompany/",
+  "description": {
+    "pt": null,
+    "en": "Portuguese black ceramic is an ancestral craft from the north of Portugal that uses a unique technique to turn the clay completely black without using any color pigment."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499c"
+  },
+  "name": "KindaSocks",
+  "categories": [
+    "meias"
+  ],
+  "image": "kindasocks.png",
+  "homepage": "https://kindasocks.com/pt/",
+  "facebook": "https://www.facebook.com/kindasocks/",
+  "instagram": "https://instagram.com/kindasocks/",
+  "description": {
+    "pt": "As nossas meias são desenvolvidas 100% em Portugal numa das unidades fabris com mais experiência no mercado português. A combinação entre algodão, elastano e poliamida confere um maior conforto e durabilidade.",
+    "en": "Our socks are 100% developed in Portugal in one of the most experienced manufacturing units in the Portuguese market. The combination of cotton, elastane and polyamide provides greater comfort and durability."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499d"
+  },
+  "name": "Kurk ",
+  "categories": [
+    "oculos-sol"
+  ],
+  "image": "kurk_sunglasses.png",
+  "homepage": "https://kurksunglasses.com/",
+  "facebook": "https://facebook.com/kurksunglasses/",
+  "instagram": "https://instagram.com/kurk_sunglasses/",
+  "description": {
+    "pt": "A Kurk é uma marca portuguesa, que nasce da simbiose entre a paixão por óculos e 15 anos de experiência da nossa equipa. A nossa historia é simples e genuína. Queremos disponibilizar óculos cuidados, com qualidade a um preço justo.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499e"
+  },
+  "name": "La Bicicletta",
+  "categories": [
+    "jogos-brinquedos"
+  ],
+  "image": "labiciclettabrand.png",
+  "homepage": "https://www.labicicletta.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/labiciclettabrand/",
+  "description": {
+    "pt": "Loja de brinquedos tradicionais feitos de materiais naturais e ecológicos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b2499f"
+  },
+  "name": "Laboratório d'Estórias",
+  "categories": [
+    "decoracao",
+    "artesanato"
+  ],
+  "image": "laboratoriodestorias.png",
+  "homepage": "http://laboratoriodestorias.com/",
+  "facebook": "https://facebook.com/180080528821798/",
+  "instagram": "https://instagram.com/laboratoriodestorias/",
+  "description": {
+    "pt": "É com este espírito que, em Junho de 2013, surge o Laboratório d’Estórias: um espaço experimental de design que pretende inspirar-se nas estórias da cultura popular portuguesa para reinventar objectos tradicionais, utilizando-os para contar novas estórias — e, porque não, para recriar a própria história do país.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a0"
+  },
+  "name": "Lachoix",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "lachoix.official.png",
+  "homepage": "https://lachoix.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/lachoix.official/",
+  "description": {
+    "pt": null,
+    "en": "Lachoix’s identity and concept is inspired by the typical masculine mocassin shape, with the aim to create a customisable and intemporal loafer with unique patterns and textures. "
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a1"
+  },
+  "name": "Lameirinho",
+  "categories": [
+    "texteis-lar"
+  ],
+  "image": "Lameirinho1948.png",
+  "homepage": "https://lameirinho.pt/",
+  "facebook": "https://facebook.com/Lameirinho.pt/",
+  "instagram": "https://instagram.com/Lameirinho1948/",
+  "description": {
+    "pt": "Uma empresa com história e dedicação ao fabrico de têxteis-lar desde 1948. Entre outros, fabrica lençóis, almofadas e edredões que o levam a uma experiência de sono, única!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a2"
+  },
+  "name": "Lanidor",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "bebe-criancas",
+    "acessorios",
+    "malas",
+    "bijuteria",
+    "sapatos"
+  ],
+  "image": "lanidor.png",
+  "homepage": "https://lanidor.com/",
+  "facebook": "https://facebook.com/Lanidor/",
+  "instagram": "https://instagram.com/lanidor/",
+  "description": {
+    "pt": "A Lanidor é a maior marca portuguesa de pronto-a-vestir feminino. Neste momento tem uma rede de 139 lojas, espalhadas pelos dez países onde se encontra: Portugal, Espanha, Angola, Chipre, Egipto, Equador, Irlanda, Líbano, Omã e Qatar. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a3"
+  },
+  "name": "LATITID ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "latitid.png",
+  "homepage": "https://latitid.com",
+  "facebook": "https://facebook.com/latitid/",
+  "instagram": "https://instagram.com/latitid/",
+  "description": {
+    "pt": "O nome da marca portuguesa, LATITID, surge da fusão das palavras LATITUDE + ATITUDE. Uma marca pensada para mulheres irreverentes, com atitudes diferenciadas, que procuram destinos cosmopolitas, que abraçam a fusão entre a cultura, arte e modernidade.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a4"
+  },
+  "name": "Lavandiska",
+  "categories": [
+    "bebe-criancas",
+    "texteis-lar"
+  ],
+  "image": "lavandiska_home_essentials.png",
+  "homepage": "http://lavandiska.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/lavandiska_home_essentials/",
+  "description": {
+    "pt": "Criada em 2015, a Lavandiska é uma marca 100% portuguesa, que é difícil encaixar numa categoria. Para Filipa Meira  e Roberto Morim, os rostos por detrás do projeto, a Lavandiska representa um estilo e uma forma de estar na vida. As suas propostas estendem-se por isso a todos os universos do quotidiano, da decoração da casa aos momentos em família.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a5"
+  },
+  "name": "Lemon Jelly",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "lemonjellyshoes.png",
+  "homepage": "https://lemonjelly.com/",
+  "facebook": "https://facebook.com/LemonJellyShoes/",
+  "instagram": "https://instagram.com/lemonjellyshoes/",
+  "description": {
+    "pt": "Produzido em Portugal, o calçado Lemon Jelly abraça a moda sustentável e destaca-se pelo inconfundível aroma a limão. Descobre as botas e sapatos femininos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a6"
+  },
+  "name": "Licor 35",
+  "categories": [
+    "bebidas"
+  ],
+  "image": "licor35.png",
+  "homepage": "http://licor35.pt/",
+  "facebook": "https://facebook.com/licor35/",
+  "instagram": "https://instagram.com/licor35/",
+  "description": {
+    "pt": "O Licor 35 inspira-se no sabor de um símbolo nacional, o Pastel de Belém. Concebido para se beber em qualquer ocasião e a qualquer hora, este licor, único com sabor a Portugal, apresenta 14,5% de álcool, oferecendo um toque mais leve à sua degustação.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a7"
+  },
+  "name": "Licor Beirão",
+  "categories": [
+    "bebidas"
+  ],
+  "image": "licor_beirao.png",
+  "homepage": "https://licorbeirao.com/",
+  "facebook": "https://facebook.com/olicordeportugal/",
+  "instagram": "https://instagram.com/licor_beirao/",
+  "description": {
+    "pt": "A empresa J. Carranca Redondo, Lda, produtora do Licor Beirão, nasceu em 1940, mas a história deste licor é bastante mais antiga. Ainda sem o apelido de Beirão, o licor já se fabricava, na vila da Lousã, numa farmácia, há mais de um século.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a8"
+  },
+  "name": "Life in a bag",
+  "categories": [
+    "alimentacao",
+    "decoracao"
+  ],
+  "image": "lifeinabagpt.png",
+  "homepage": "https://lifeinabag.pt/",
+  "facebook": "https://facebook.com/lifeinabag.pt/",
+  "instagram": "https://instagram.com/lifeinabagpt/",
+  "description": {
+    "pt": "A Life in a bag pretende inspirar as pessoas a cultivar aliando o design e a sustentabilidade, contribuindo para um estilo de vida saudável e um planeta mais amigo do ambiente. Oferecemos produtos que combinam natureza e design e que permitem criar uma horta de ervas aromáticas, flores comestíveis e microvegetais biológicos dentro de casa. São uma alternativa diferenciadora, didática e ecológica na hora de oferecer um presente.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249a9"
+  },
+  "name": "LimonRose",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "Limonrose.brand.jpg",
+  "homepage": "https://limonrose.pt/",
+  "facebook": "https://facebook.com/limonrose.brand/",
+  "instagram": "https://instagram.com/Limonrose.brand/",
+  "description": {
+    "pt": "A LimonRose é uma marca portuguesa, desde o seu design ao seu fabrico, criada por duas mulheres, mãe e filha, com um sonho partilhado. Pretendemos vestir a alma do nosso cliente com produtos reais e verdadeiros.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249aa"
+  },
+  "name": "Lion of Porches",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "bebe-criancas",
+    "acessorios",
+    "malas",
+    "bijuteria",
+    "sapatos"
+  ],
+  "image": "lionofporches.png",
+  "homepage": "https://lionofporches.com/pt/",
+  "facebook": "https://facebook.com/lionofporches",
+  "instagram": "https://instagram.com/lionofporches/",
+  "description": {
+    "pt": null,
+    "en": "Aware of the constant changes in the modern era, Lion of Porches arises, renewed based on a sense of liberty and innovation. The brand gives privilege to the connection between traditional and contemporary."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ab"
+  },
+  "name": "Living Tide",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "livingtide_swimwear.png",
+  "homepage": "https://livingtideportugal.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/livingtide_swimwear/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ac"
+  },
+  "name": "LOBO APPAREL",
+  "categories": [
+    "sapatos",
+    "roupa-homem",
+    "material-escritorio"
+  ],
+  "image": "Lobo-Apparel.png",
+  "homepage": "https://loboapparel.pt/",
+  "facebook": "https://facebook.com/Lobo-Apparel-2781488681868666/",
+  "instagram": null,
+  "description": {
+    "pt": null,
+    "en": "LOBO APPAREL’s purpose is to create quality garments and accessories, durable and with a timeless aesthetic. We attempt to resist to trends so that our creations don’t evaporate over time and remain with us, as fragments of our History."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ad"
+  },
+  "name": "Lola Wants.",
+  "categories": [
+    "lingerie"
+  ],
+  "image": "lolawants.lingerie.png",
+  "homepage": "https://lolawantslola.com/",
+  "facebook": "https://facebook.com/Lola-Wants-123731608305400/",
+  "instagram": "https://instagram.com/lolawants.lingerie/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ae"
+  },
+  "name": "Lusitanas",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "portugal.lusitanas.png",
+  "homepage": "https://lusitanas.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/portugal.lusitanas/",
+  "description": {
+    "pt": "Esta é a história de três amigas que, juntamente com uma designer de moda, decidiram dar vida a um projeto já há muito desejado e que, finalmente, chegou à altura de sair do papel! Assim nasceu a Lusitanas, uma marca de sapatos 100% portuguesa e totalmente handmade with love.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249af"
+  },
+  "name": "M Ï A - M Ô",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "fallinlovewith.miamo.png",
+  "homepage": "https://mia-mo.com/",
+  "facebook": "https://facebook.com/fallinlovewith.miamo/",
+  "instagram": "https://instagram.com/fallinlovewith.miamo/",
+  "description": {
+    "pt": "Mulheres sofisticadas, irreverentes e que gostam de primar pela elegância, chegou a marca que sempre sonharam.A M Ï A - M Ô não vende roupa, In'veste (informa + veste) nas mulheres.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b0"
+  },
+  "name": "Maaris",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "maarisstore.png",
+  "homepage": "https://maarisstore.com/",
+  "facebook": "https://facebook.com/maarisstore/",
+  "instagram": "https://instagram.com/maarisstore/",
+  "description": {
+    "pt": null,
+    "en": "Timeless and seasonless pieces ethically made in Portugal with natural fibers. Living in a coastal city, Porto led us to create a brand inspired by the sea (mar), the nature, the power that the sun and the warm weather have in our lives. Maaris comes from the desire for a mindful, simpler and more minimalist life."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b1"
+  },
+  "name": "Maiorista",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "maiorista.pt.png",
+  "homepage": "https://maiorista.pt/",
+  "facebook": "https://facebook.com/maiorista.pt/",
+  "instagram": "https://instagram.com/maiorista.pt/",
+  "description": {
+    "pt": "A Maiorista é uma empresa Portuguesa implantada no mercado desde 1979, como produtores e distribuidores de vestuário para bebé, infantil e juvenil.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b2"
+  },
+  "name": "MALASANTA ",
+  "categories": [
+    "malas"
+  ],
+  "image": "malasantaericeira.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/malasantaericeira/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b3"
+  },
+  "name": "Maldita",
+  "categories": [
+    "cerveja"
+  ],
+  "image": "cervejamaldita.png",
+  "homepage": "https://cervejamaldita.pt/",
+  "facebook": "https://facebook.com/CervejaMaldita/",
+  "instagram": "https://instagram.com/cervejamaldita/",
+  "description": {
+    "pt": "Conceituada marca de cerveja artesanal portuguesa, produzida pela Faustino Microcervejaria e premiada internacionalmente.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b4"
+  },
+  "name": "Manimal",
+  "categories": [
+    "animais"
+  ],
+  "image": "manimal.pt.png",
+  "homepage": "https://manimal.pt/",
+  "facebook": "https://facebook.com/manimal.pt/",
+  "instagram": "https://instagram.com/manimal.pt/?hl=en/",
+  "description": {
+    "pt": "O nosso propósito é fortalecer a ligação entre animais e pessoas através do design. Ao conceber produtos cuidadosamente desenhados e com materiais naturais, criamos peças de mobiliário únicas destinadas aos animais, que promovem a sua integração nas nossas casas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b5"
+  },
+  "name": "Manjerica",
+  "categories": [
+    "malas"
+  ],
+  "image": "manjerica.png",
+  "homepage": "https://manjerica.com/",
+  "facebook": "https://facebook.com/Manjerica",
+  "instagram": "https://instagram.com/manjerica/",
+  "description": {
+    "pt": null,
+    "en": "Manjerica aims to create quality pieces with a timeless appeal and functionality, inspired by the unique point of view of the designer and founder Teresa Bettencourt, greatly influenced by her homeland, the Azores islands."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b6"
+  },
+  "name": "Maria Maleta",
+  "categories": [
+    "malas"
+  ],
+  "image": "maria_maleta.png",
+  "homepage": "https://mariamaleta.com",
+  "facebook": null,
+  "instagram": "https://instagram.com/maria_maleta/",
+  "description": {
+    "pt": "Maria Maleta é uma marca Portuguesa de acessórios em pele, tem como fatores chave a qualidade, o design e toda a mala ser feita em pele verdadeira. A Maria Maleta vai ao encontro da melhor produção Portuguesa e da matéria prima onde a qualidade dos materiais sejam evidenciados.   ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b7"
+  },
+  "name": "Maria Tigela",
+  "categories": [
+    "tableware"
+  ],
+  "image": "maria_tigela.png",
+  "homepage": "https://mariatigela.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/maria_tigela/",
+  "description": {
+    "pt": "MARiA TiGELA é uma marca de tableware desenhada e produzida em Portugal, por duas verdadeiras apaixonadas pelos detalhes que as envolvem dentro de casa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b8"
+  },
+  "name": "Marla Pais",
+  "categories": [
+    "sapatos",
+    "acessorios",
+    "malas",
+    "material-escritorio",
+    "bijuteria"
+  ],
+  "image": "marla.pais.png",
+  "homepage": "http://marlapais.com/",
+  "facebook": "https://facebook.com/MarlaPaisCorkAccessories/",
+  "instagram": "https://instagram.com/marla.pais/",
+  "description": {
+    "pt": "A marca Marla Pais / I Love Cork dedica-se ao design e produção de acessórios em pele de cortiça. O nosso principal objectivo é realçar a nobreza e a sustentabilidade da cortiça: um produto natural e amigo do ambiente. Simplicidade, perfeição e inovação constituem o nosso desafio.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249b9"
+  },
+  "name": "MATILDA ",
+  "categories": [
+    "bijuteria"
+  ],
+  "image": "matildajewellery.png",
+  "homepage": "https://matildajewellery.com/shop",
+  "facebook": null,
+  "instagram": "https://instagram.com/matildajewellery/",
+  "description": {
+    "pt": "A MATILDA é uma marca orgulhosamente portuguesa que foi concebida por entusiastas de jóias, inspiradas pelo grande valor dos pequenos detalhes. A missão é criar um universo de jóias elegantes mas descontraídas. Peças informais e de uso fácil, de forma a que sejam conjugadas livremente.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ba"
+  },
+  "name": "MC Moments",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "mc.moments.png",
+  "homepage": "https://linhamcmoments.com/",
+  "facebook": "https://www.facebook.com/linha.mc",
+  "instagram": "https://instagram.com/mc.moments/",
+  "description": {
+    "pt": "Inspiradas nas nossas receitas caseiras, da gastronomia Alentejana - a nossa herança - contamos histórias em sabores. De uma forma totalmente artesanal, única, deliciosa e muito cuidada combinamos diferentes ingredientes, desde os enchidos artesanais que nos chegam do Alentejo, as especiarias, os frutos e legumes da época, ervas aromáticas, bebidas espirituosas até às flores do nosso jardim...",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249bb"
+  },
+  "name": "meia.dúzia",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "meiaduzia.pt.png",
+  "homepage": "http://meiaduzia.pt/",
+  "facebook": "https://facebook.com/meiaduzia.pt/",
+  "instagram": "https://instagram.com/meiaduzia.pt/",
+  "description": {
+    "pt": "Doces de fruta, pastas de azeitona, cremes de chocolate de São Tomé com frutas em bisnaga. Chás aromáticos e licores Artesanais. 100% artesanal. 100% português. reciclável, prático e higiénico.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249bc"
+  },
+  "name": "Mel & Alecrim",
+  "categories": [
+    "bijuteria"
+  ],
+  "image": "melealecrim.jewelry.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/melealecrim.jewelry/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249bd"
+  },
+  "name": "Memória Lusa",
+  "categories": [
+    "artesanato",
+    "ceramica",
+    "decoracao"
+  ],
+  "image": "memoria.lusa.png",
+  "homepage": "https://memorialusa-portugal.blogspot.com/",
+  "facebook": "https://facebook.com/MemoriaLusa/",
+  "instagram": "https://instagram.com/memoria.lusa/",
+  "description": {
+    "pt": "Produzimos e comercializamos para revenda e eventos, peças de cerâmica com alma portuguesa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249be"
+  },
+  "name": "Merry Sister",
+  "categories": [
+    "ilustracoes"
+  ],
+  "image": "merry.sisterv.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/merry.sisterv/",
+  "description": {
+    "pt": "Ilustrações personalizadas para celebrar e recordar, momentos especiais da nossa vida.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249bf"
+  },
+  "name": "Mestre Gourmet",
+  "categories": [
+    "alimentacao",
+    "bebidas",
+    "azeite",
+    "mel"
+  ],
+  "image": "saboresdeantigamente.png",
+  "homepage": "http://mestregourmet.pt/",
+  "facebook": "https://facebook.com/saboresdeantigamente.webnode.pt/",
+  "instagram": null,
+  "description": {
+    "pt": "Mestre Gourmet é uma marca portuguesa, criada em 2013, que se distingue pela dedicação que confere à criação de cada produto.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c0"
+  },
+  "name": "Miapê",
+  "categories": [
+    "acessorios",
+    "bijuteria"
+  ],
+  "image": "miape__.png",
+  "homepage": "https://miapestore.com/",
+  "facebook": "https://facebook.com/miapestore/",
+  "instagram": "https://instagram.com/miape__/",
+  "description": {
+    "pt": "É em 2013, num dos períodos mais conturbados da economia portuguesa, que nasce a Miapê. Um pequeno projeto familiar dotado de garra e ambição. O nome Miapê fez-nos desde logo todo o sentido porque adota as iniciais dos nomes dos nossos filhos, os nossos maiores fãs e impulsionadores: a Maria, a Inês e o Afonso (MIA) e do nosso sobrenome (Pereira, Pê).",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c1"
+  },
+  "name": "Microgreens",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "microgreens.pt.png",
+  "homepage": "https://microgreens.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/microgreens.pt/",
+  "description": {
+    "pt": "Microgreens surgiu de um projecto universitário e foi oficialmente criada em 2015, especializada na produção e comercialização de microgreens (micro verduras de legumes ou ervas aromáticas) e flores comestíveis produzidas no ambiente protegido de uma estufa. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c2"
+  },
+  "name": "Mike Davis",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "sapatos"
+  ],
+  "image": "mikedavis76.png",
+  "homepage": "https://mikedavis.pt/",
+  "facebook": "https://facebook.com/MikeDavis76/",
+  "instagram": "https://instagram.com/mikedavis76/",
+  "description": {
+    "pt": "Marca Portuguesa de vestuário Casual Sport para Homem e Mulher. Mike Davis é uma marca que está presente no mercado desde 1976, que mantém hoje os mesmos valores de qualidade, conforto e personalidade de há 40 anos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c3"
+  },
+  "name": "MimikoPets",
+  "categories": [
+    "animais"
+  ],
+  "image": "mimikopets.png",
+  "homepage": "https://mimikopets.com/",
+  "facebook": "https://facebook.com/shop.mimikopets/",
+  "instagram": "https://instagram.com/mimikopets/",
+  "description": {
+    "pt": "A MimikoPets surge com a experiência na costura e a paixão pelos animais. Todos os produtos, camas, mantas, almofadas, malas e porta-chaves são feitos à mão e de confeção própria, garantindo que a marca seja artesanal, familiar e 100% portuguesa.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c4"
+  },
+  "name": "mío",
+  "categories": [
+    "bijuteria",
+    "joalharia"
+  ],
+  "image": "mio.jewels.png",
+  "homepage": "https://mio-jewels.com/",
+  "facebook": "https://facebook.com/jewelsmio/",
+  "instagram": "https://instagram.com/mio.jewels/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c5"
+  },
+  "name": "Missus",
+  "categories": [
+    "beachswimwear",
+    "roupa-mulher",
+    "lingerie"
+  ],
+  "image": "missus_swimsuits.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/missus_swimsuits/",
+  "description": {
+    "pt": "A Missus surge de uma paixão pelas cores, formas, diversidade de padrões e possíveis conjugações entre eles. Consolidando a aprendizagem nas diversas áreas de design, a marca 100% Portuguesa é 100% inclusiva, pois através dos diferentes modelos, vai ao encontro do bem estar das mulheres com corpos reais, fazendo-as sentirem-se sexy, bonitas e elegantes.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c6"
+  },
+  "name": "Monarte",
+  "categories": [
+    "roupa-mulher",
+    "sapatos",
+    "acessorios"
+  ],
+  "image": "monarte_official.png",
+  "homepage": "https://monarte.com/",
+  "facebook": "https://facebook.com/Monarte.official/",
+  "instagram": "https://instagram.com/monarte_official/",
+  "description": {
+    "pt": null,
+    "en": "Monarte is a fashion brand that works with talented artists from around the world to create authentic and exclusive designs."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c7"
+  },
+  "name": "Morena Jambo",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "morenajamboficial.png",
+  "homepage": "https://morenajambo.pt/ ",
+  "facebook": "https://facebook.com/pg/morenajamboficial/",
+  "instagram": null,
+  "description": {
+    "pt": null,
+    "en": "Made from recycled and sustainable fabrics + Ethical thinking From Portugal to the world."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c8"
+  },
+  "name": "MPL’ beauty",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "mpl_beauty.png",
+  "homepage": "https://mplbeauty.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/mpl_beauty/",
+  "description": {
+    "pt": "MPL'Beauty por Mafalda Pinto Leite. A nossa máxima é “Linda de Morrer, Por Dentro e Por Fora” e é para isso que trabalhamos todos os dias. Acreditamos no poder dos ingredientes naturais para partilhar os produtos e as ferramentas necessários para uma verdadeira beleza - uma beleza que se baseia em nutrirmos e equilibrarmos corpo, mente e espírito.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249c9"
+  },
+  "name": "Mr. Sunglasses",
+  "categories": [
+    "acessorios"
+  ],
+  "image": "mrsunglasses.pt.png",
+  "homepage": "https://mrsunglasses.pt/",
+  "facebook": "https://facebook.com/mrsunglasses.pt/",
+  "instagram": "https://instagram.com/mrsunglasses.pt/",
+  "description": {
+    "pt": "O Mr. Sunglasses é especialista em moda eyewear e comercializa revistas, fitas para óculos, líquidos de limpeza, bolsas para óculos e outros acessórios.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ca"
+  },
+  "name": "Mulekai",
+  "categories": [
+    "jogos-brinquedos"
+  ],
+  "image": "mulekai.kids.png",
+  "homepage": "https://mulekai.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/mulekai.kids/",
+  "description": {
+    "pt": "Somos uma marca que se importa com a forma e com o conteúdo. Queremos que pais e filhos possam reconhecer o cuidado e a dedicação que emprestamos em cada brinquedo, cada jogo, em cada decoração que lançamos. O pormenor aqui é mais que um detalhe, é o diferencial que temos a oferecer.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249cb"
+  },
+  "name": "MUSGO ",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "musgo.design_pt.png",
+  "homepage": "https://pt.musgodesign.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/musgo.design_pt/",
+  "description": {
+    "pt": "Depois de três anos no Rio de Janeiro, Margarida e Rui regressam a Portugal em 2016, e criam a MUSGO. No seu estúdio, instalado numa antiga vacaria, entretanto restaurada, desenham diversas peças de mobiliário, assumindo os candeeiros o maior destaque. Na sua execução recorrem à reutilização de madeiras de mobiliário, portas, pisos e estruturas de casas portuguesas antigas que foram restauradas, dando-lhes uma nova vida.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249cc"
+  },
+  "name": "MUTA",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher"
+  ],
+  "image": "muta.studio.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/muta.studio/",
+  "description": {
+    "pt": null,
+    "en": "High quality hand crafted clothing pieces with a sustainable and ethical core values."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249cd"
+  },
+  "name": "MY GOJJI ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "mygojji.png",
+  "homepage": "https://mygojji.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/mygojji/",
+  "description": {
+    "pt": null,
+    "en": "MY GOJJI is a brand both created and made 100% in Portugal by a team dedicated to producing unique pieces that strengthen the confidence, determination, and posture of any woman, always combining these factors with maximum quality."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ce"
+  },
+  "name": "My Travelling Socks",
+  "categories": [
+    "meias"
+  ],
+  "image": "mytravellingsocks.png",
+  "homepage": "https://mytravellingsocks.com/",
+  "facebook": "https://facebook.com/MyTravellingSocks/",
+  "instagram": "https://instagram.com/mytravellingsocks/",
+  "description": {
+    "pt": "A My Travelling Socks nasceu em 2019 de um desejo enorme de tornar as viagens à volta do mundo algo do dia-a-dia! Queríamos tornar essas pequenas memórias, trazidas daqui e dali, em algo que fosse utilizável no dia a dia para todo o lado. E que melhor maneira do que meias? Queremos ser o teu companheiro de viagem, estar contigo sempre que os teus pés tocarem novos locais.",
+    "en": "My Travelling Socks was born in 2019 from a deep urge to make travels part of our day to day life! We wanted to incorporate these small memories, picked up here and there, in something that could be carried around everyday. And what better way to do it than socks? We want to be your travel pal, be there with you whenever your feet wander."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249cf"
+  },
+  "name": "nae",
+  "categories": [
+    "sapatos",
+    "malas",
+    "acessorios"
+  ],
+  "image": "naeveganshoes.png",
+  "homepage": "https://nae-vegan.com/pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/naeveganshoes/",
+  "description": {
+    "pt": "Somos a nae (No Animal Exploitation), uma marca portuguesa de calçado vegan que propõe uma alternativa justa e animal-friendly contra a exploração humana e respeitadora do meio ambiente. A nossa proposta é oferecer uma alternativa consciente para quem procura calçado português de qualidade, e que apresenta uma responsabilidade acrescida perante o Meio Ambiente.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d0"
+  },
+  "name": "Nanai",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "nanai_portugal.png",
+  "homepage": "https://nanaiportugal.com/",
+  "facebook": "https://facebook.com/nanaiportugal",
+  "instagram": "https://instagram.com/nanai_portugal/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d1"
+  },
+  "name": "Näz ",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios"
+  ],
+  "image": "naz.fashion.png",
+  "homepage": "https://naz.pt/",
+  "facebook": "https://facebook.com/naz.sustainablefashion/",
+  "instagram": "https://instagram.com/naz.fashion/",
+  "description": {
+    "pt": "Uma marca de moda sustentável inspirada na vida moderna, que propõe peças que vão ao encontro de um estilo de vida individual, minimalista e consciente.",
+    "en": "A sustainable fashion brand inspired by modern life, proposing garments that are consistent with an individual, more minimalist and conscious lifestyle."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d2"
+  },
+  "name": "Neighbours",
+  "categories": [
+    "bebidas",
+    "gin"
+  ],
+  "image": "neighbours11_gin.png",
+  "homepage": "https://ginbowfinespirits.com/",
+  "facebook": "https://facebook.com/Neighbours11/",
+  "instagram": "https://instagram.com/neighbours11_gin/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d3"
+  },
+  "name": "New Terracotta",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "newterracotta.png",
+  "homepage": "https://newterracotta.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/newterracotta/",
+  "description": {
+    "pt": "Fabricamos azulejos artesanais numa fábrica à escala humana, nem muito grande nem muito pequena. A New Terracotta foi fundada em 2014 e está sediada no centro de Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d4"
+  },
+  "name": "No'Ar",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "plantasnoar.png",
+  "homepage": null,
+  "facebook": null,
+  "instagram": "https://instagram.com/plantasnoar/",
+  "description": {
+    "pt": "A No’Ar começou em 2015, para partilhar a sua paixão pelas Tillandsias e Suculentas, criando pequenos mundos e paisagens que cada um pode levar para casa. Para si ou para alguém muito especial.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d5"
+  },
+  "name": "NOBRAND",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "nobrand.pt.png",
+  "homepage": "https://nobrand.pt/",
+  "facebook": "https://facebook.com/NOBRAND--161225970576653",
+  "instagram": "https://instagram.com/nobrand.pt/",
+  "description": {
+    "pt": null,
+    "en": " Born in 1988, the brand became famous for its timeless effor ts in redefining technology and for giving a cutting edge to the traditional Por tuguese shoe styling, a concept that is now becoming international."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d6"
+  },
+  "name": "Nortada",
+  "categories": [
+    "cerveja"
+  ],
+  "image": "cervejanortada.png",
+  "homepage": "https://cervejanortada.pt/",
+  "facebook": "https://facebook.com/CervejaNortada/",
+  "instagram": "https://instagram.com/cervejanortada/",
+  "description": {
+    "pt": "Queremos contagiar Portugal com a paixão por boa cerveja. É por isso que apostamos sempre nas melhores matérias primas e arregaçamos as mangas para criar cervejas artesanais únicas e cheias de sabor.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d7"
+  },
+  "name": "NUDIST",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "nudistswimwear.png",
+  "homepage": "https://nudistswimwear.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/nudistswimwear/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d8"
+  },
+  "name": "NUUK",
+  "categories": [
+    "joalharia",
+    "bijuteria",
+    "acessorios"
+  ],
+  "image": "nuukjewellery.png",
+  "homepage": "https://nuukjewellery.com/",
+  "facebook": "https://facebook.com/nuukjewellery/",
+  "instagram": "https://instagram.com/nuukjewellery/",
+  "description": {
+    "pt": null,
+    "en": "NUUK is a contemporary and minimalist jewellery design brand. All our products stand out by the use of geometric, minimalist, delicate and natural materials to create a casual and trendy look! Our acessories are original and designed to make each piece one of a kind."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249d9"
+  },
+  "name": "Occidens",
+  "categories": [
+    "azeite",
+    "mel"
+  ],
+  "image": "occidens4.png",
+  "homepage": "http://occidens.pt/",
+  "facebook": "https://facebook.com/Occidens-283081451798440/",
+  "instagram": "https://instagram.com/occidens4/",
+  "description": {
+    "pt": "Occidens – Significa “Ocidente” em Latin. Para nós significa fornecer ao mundo os melhores produtos da costa Oeste da Europa e do país mais antigo do mundo com as suas fronteiras atuais: Portugal. Os melhores produtos são sempre raros, por isso as nossas produções são em pequena escala e de produção e distribuição limitada.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249da"
+  },
+  "name": "Oficina805",
+  "categories": [
+    "decoracao",
+    "ilustracoes"
+  ],
+  "image": "oficina805.png",
+  "homepage": "http://oficina805.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/oficina805/",
+  "description": {
+    "pt": "A oficina805 é uma marca portuguesa que se dedica à criação de artigos feitos à mão. É um projeto que pretende explorar a nossa paixão pela arquitectura, design, marcenaria e costura. Procuramos a sustentabilidade e o perfecionismo. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249db"
+  },
+  "name": "Oh, Monday!",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "ohmonday__.png",
+  "homepage": "https://oh-monday.com/pt-pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/ohmonday__/",
+  "description": {
+    "pt": "Marca de slow fashion para mulheres elegantes, fortes e dinâmicas (ou para todas as vezes que precisamos de um empurrão para nos sentirmos assim). Cuidadosamente projetadas para uma ampla variedade de mulheres com um espírito moderno, as nossas peças querem ajudar na construção de uma identidade e acrescentar um sentimento de força e determinação que as faça sentir-se bonitas por dentro e por fora.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249dc"
+  },
+  "name": "Golden Customs",
+  "categories": [
+    "roupa-homem"
+  ],
+  "image": "goldencustoms.porto.png",
+  "homepage": null,
+  "facebook": "https://facebook.com/goldencustoms.pt/",
+  "instagram": "https://instagram.com/goldencustoms.porto/",
+  "description": {
+    "pt": "Portuguese Brand of Luxury Basics for Man. Na Golden Customs, escolhemos os melhores materiais disponíveis no Mundo, para serem transformados nas melhores peças de vestuário alguma vez criadas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249dd"
+  },
+  "name": "Olive Emotion",
+  "categories": [
+    "azeite"
+  ],
+  "image": "oliveemotion.png",
+  "homepage": "https://oliveemotion.com/",
+  "facebook": "https://facebook.com/OliveEmotionExperience/",
+  "instagram": "https://instagram.com/oliveemotion/",
+  "description": {
+    "pt": "Uma marca de azeite premium que te leva a ligações emocionais pela redescoberta do azeite e a atração por combinações inexploradas…",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249de"
+  },
+  "name": "OMNIA",
+  "categories": [
+    "joalharia",
+    "bijuteria"
+  ],
+  "image": "omniagirls.png",
+  "homepage": "https://omniagirls.com/",
+  "facebook": "https://facebook.com/omniagirls/",
+  "instagram": "https://instagram.com/omnia.pt/",
+  "description": {
+    "pt": "A OMNIA é uma marca de joalharia criada e produzida em Portugal. Descubra todas as colecções de colares, brincos, anéis e pulseiras em prata e ouro.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249df"
+  },
+  "name": "Organii",
+  "categories": [
+    "cosmetica",
+    "cuidado-pessoal"
+  ],
+  "image": "organii_bio.png",
+  "homepage": "https://organii.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/organii_bio/",
+  "description": {
+    "pt": "Com mais de 15 anos de experiência, a Organii trabalha com uma equipa multidisciplinar especializada para atender e tratar de forma personalizada.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e0"
+  },
+  "name": "Oslo",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher"
+  ],
+  "image": "osloloveapparel.png",
+  "homepage": "https://osloshop.pt/",
+  "facebook": "https://facebook.com/OSLOVEAPPAREL/",
+  "instagram": "https://instagram.com/osloloveapparel/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e1"
+  },
+  "name": "OSÙ ",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "osu_beachwear.png",
+  "homepage": "https://osu.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/osu_beachwear/",
+  "description": {
+    "pt": null,
+    "en": "Osù is a Portuguese brand owned and operated by a small team of creatives. The Handmade is present in every process, beginning in the modeling of the  pieces, in the drawing of the patterns and finishing in the manufacture, executed by meticulous hands. Found exclusively in Portugal."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e2"
+  },
+  "name": "OWL Paperlamps",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "owlpaperlamps.png",
+  "homepage": "https://owlpaperlamps.com/",
+  "facebook": "https://facebook.com/owlpaperlamps/",
+  "instagram": "https://instagram.com/owlpaperlamps/",
+  "description": {
+    "pt": null,
+    "en": "OWL paperlamps is a design brand created in 2016 in Lisbon, Portugal, by Hugo and Teresa. Inspired by the origami art of folding paper figures, we combine modelling with illumination to design original papercraft lamps. Whether your OWL paperlamp is lit or turned off, it will certainly be an eye catcher."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e3"
+  },
+  "name": "Panareha",
+  "categories": [
+    "roupa-homem",
+    "beachswimwear"
+  ],
+  "image": "panareha.png",
+  "homepage": "https://panareha.com/",
+  "facebook": "https://facebook.com/panareha/",
+  "instagram": "https://instagram.com/panareha_/",
+  "description": {
+    "pt": null,
+    "en": "Panareha is a sustainable menswear brand that embodies the true spirit of summer. Our designs have a cool and relaxed approach to men's summer wear."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e4"
+  },
+  "name": "Papaia Praia",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "papaiapraia.png",
+  "homepage": "https://papaiapraia.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/papaiapraia/",
+  "description": {
+    "pt": "A Papaia Praia nasceu de um sonho de mãe e filha. Uma farmacêutica, outra dentista, ambas com uma vontade: criar uma marca de swimwear para mulheres reais. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e5"
+  },
+  "name": "Papel D'Ouro",
+  "categories": [
+    "decoracao"
+  ],
+  "image": "papeldouro.png",
+  "homepage": "https://papeldouro.pt/",
+  "facebook": "https://facebook.com/papeldouro/",
+  "instagram": null,
+  "description": {
+    "pt": "Fabrico papel 100% algodão a partir de desperdícios têxteis. Além do requinte da matéria, singularidade da textura, a exclusividade advém da personalização.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e6"
+  },
+  "name": "PAPUA",
+  "categories": [
+    "beachswimwear"
+  ],
+  "image": "papua_beachwear.png",
+  "homepage": "https://papua.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/papua_beachwear/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e7"
+  },
+  "name": "PARFOIS",
+  "categories": [
+    "roupa-mulher",
+    "bijuteria",
+    "malas",
+    "sapatos",
+    "acessorios"
+  ],
+  "image": "parfois.png",
+  "homepage": "https://parfois.com/pt/pt/home/",
+  "facebook": "https://facebook.com/parfois/",
+  "instagram": "https://instagram.com/parfois/",
+  "description": {
+    "pt": null,
+    "en": "PARFOIS is a Portuguese fashion and accessories brand created in 1994 by Manuela Medeiros, whose dream was to make exceptional fashion accessories that where accessible to all women. 25 years later, the brand has more 1000 stores in more than 70 countries."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e8"
+  },
+  "name": "Patachou",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "patachou.png",
+  "homepage": "https://patachou.com/",
+  "facebook": "https://facebook.com/Patachouspreadingsmiles/",
+  "instagram": "https://instagram.com/patachou/",
+  "description": {
+    "pt": "A Patachou é uma marca de moda infantil de luxo acessível, que produz roupa e acessórios para bebé e criança dos 0 aos 14 anos. Mais do que isso, é a concretização de um projeto de duas mulheres empreendedoras e apaixonadas por moda, que sonharam criar um universo infantil com propostas clássicas e divertidas, combinando o design exclusivo com o uso de materiais nobres para a afirmação de um estilo chique e intemporal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249e9"
+  },
+  "name": "Pedaços de Cacau",
+  "categories": [
+    "alimentacao",
+    "chocolate"
+  ],
+  "image": "pedacoscacau.png",
+  "homepage": "http://pedacosdecacau.pt/",
+  "facebook": "https://facebook.com/PedacosDeCacau/",
+  "instagram": "https://instagram.com/pedacoscacau/",
+  "description": {
+    "pt": "A Pedaços de Cacau é uma marca portuguesa premiada de chocolates artesanais., com selo Portugal Sou eu. Produção de bombons, tabletes e outros chocolates. Se adora chocolate,é viciado em chocolate,só pensa em chocolate,adoce a sua vida com Pedaços de Cacau!",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ea"
+  },
+  "name": "Pelcor",
+  "categories": [
+    "acessorios",
+    "malas",
+    "material-escritorio",
+    "animais",
+    "sapatos",
+    "cortica"
+  ],
+  "image": "pelcor.png",
+  "homepage": "https://pelcor.pt/",
+  "facebook": "https://facebook.com/Pelcor/",
+  "instagram": "https://instagram.com/pelcor/",
+  "description": {
+    "pt": null,
+    "en": "Pelcor is a sustainable portuguese fashion & lifestyle brand that develops trendy and innovative products inspired by cork, perfect for modern people. Pelcor collections includes bags, shoes, hats, tech accessories, home accessories and pet accessories, transforming the traditional cork look in sophisticated and contemporary objects."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249eb"
+  },
+  "name": "Peónia",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "peoniaportugal.png",
+  "homepage": "http://peonia.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/peoniaportugal/",
+  "description": {
+    "pt": "A Peónia é uma marca de sapatos clássicos, de salto médio, pensada e desenvolvida por duas amigas e produzida pelas mãos dos melhores artesãos em Portugal. Disponíveis em dois tipos de salto, um mais fino e elegante, o outro mais largo e confortável e em várias cores e texturas, destacam-se pelas linhas clássicas, sóbrias e intemporais mas com alguns detalhes que lhes conferem diferenciação e atualidade.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ec"
+  },
+  "name": "PICA·PAU Woodcraft",
+  "categories": [
+    "oculos-sol"
+  ],
+  "image": "picapauwoodcraft.png",
+  "homepage": "https://picapauwoodcraft.com/",
+  "facebook": "https://facebook.com/picapauwoodcraft/",
+  "instagram": "https://instagram.com/picapauwoodcraft/",
+  "description": {
+    "pt": "A PICA·PAU Woodcraft® é uma marca portuguesa, fundada em 2016, que alia os conceitos da estética e sustentabilidade, substituindo materiais tradicionais como o plástico por alternativas mais ecológicas e sustentáveis. Originários da costa portuguesa, temos como missão o aperfeiçoamento da arte de fazer óculos à mão, utilizando a madeira, mantendo sempre como principio a consciência ambiental e o desenvolvimento sustentável. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ed"
+  },
+  "name": "Pinknounou",
+  "categories": [
+    "decoracao",
+    "jogos-brinquedos"
+  ],
+  "image": "anafrompinknounou.png",
+  "homepage": "https://pinknounou.com/",
+  "facebook": "https://facebook.com/PinkNounouKids/",
+  "instagram": "https://instagram.com/anafrompinknounou/",
+  "description": {
+    "pt": null,
+    "en": "PinkNounou offers a range of textile and paper products designed for the little ones and also for their parents who apreciatte creative, practical and unique design pieces. Unique handmade illustrated textile and paper goods for babbies, kids and those young at heart!"
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ee"
+  },
+  "name": "piupiuchick",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "piupiuchick.png",
+  "homepage": "https://piupiuchick.com/",
+  "facebook": "https://facebook.com/piupiuchick/",
+  "instagram": "https://instagram.com/piupiuchick/",
+  "description": {
+    "pt": null,
+    "en": "A tribute to childhood. Kids clothes from 3m to 14y. Clothes for a happy childhood."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ef"
+  },
+  "name": "Play Up",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "_playup_.png",
+  "homepage": "https://playupstore.com/",
+  "facebook": "https://facebook.com/playupstore/",
+  "instagram": "https://instagram.com/_playup_/",
+  "description": {
+    "pt": "A Play Up é uma marca de roupa de bebé e criança dos 0 aos 14 anos, com design e fabrico totalmente português. Somos apaixonados por tudo o que diz respeito à infância e ao processo de crescimento. Cada coleção que lançamos é o produto do nosso maior empenho. Estudamos afincadamente a funcionalidade e o design de cada peça, procuramos os melhores materiais e acompanhamos pessoalmente todas as etapas da produção.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f0"
+  },
+  "name": "Polo Pet",
+  "categories": [
+    "animais"
+  ],
+  "image": "polo.pet.png",
+  "homepage": "https://polopetstore.com/",
+  "facebook": "https://facebook.com/Polopet.pt/",
+  "instagram": "https://instagram.com/polo.pet/",
+  "description": {
+    "pt": "Polo Pet to all dogs and urban cats! Nasceu da união de duas paixões, uma pela moda, a outra pelos animais e assim criamos acessórios e vestuário icónico para os nossos four-legged.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f1"
+  },
+  "name": "Portugal Jewels",
+  "categories": [
+    "joalharia"
+  ],
+  "image": "portugaljewels.png",
+  "homepage": "https://portugaljewels.com/",
+  "facebook": "https://facebook.com/PortugalJewels/",
+  "instagram": "https://instagram.com/portugaljewels/",
+  "description": {
+    "pt": "A Portugal Jewels nasce da vontade de promover e valorizar a joalharia portuguesa, recuperando os modelos e desenhos tradicionais, com uma abordagem contemporânea. Temos como objectivo a criação e curadoria de joias com alma lusa e design intemporal, que atravessem gerações.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f2"
+  },
+  "name": "Pulser",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "pulser_oficial.png",
+  "homepage": "https://pulsershoes.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/pulser_oficial/",
+  "description": {
+    "pt": "A marca PULSER é formada por uma equipa criativa e dinâmica e inteiramente produzida em Portugal por trabalhadores com décadas de experiência. Temos como princípio fundamental a escolha dos melhores materiais, de forma a garantir o maior conforto e durabilidade dos seus artigos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f3"
+  },
+  "name": "Pura Cal",
+  "categories": [
+    "mobiliario",
+    "decoracao"
+  ],
+  "image": "puracal.png",
+  "homepage": "https://puracal.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/puracal/",
+  "description": {
+    "pt": "A Pura Cal é para nós um conceito, um modo de estar e de pensar ambientes e mobiliário. Temos como missão possibilitar a construção de espaços diferenciados, únicos e alcançáveis. A nossa visão pressupõe a criação de identidades próprias, destacando o espírito de cada peça e de cada espaço, de forma a potenciar o conforto e bem-estar, aliando o design aos nossos legados culturais.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f4"
+  },
+  "name": "PurelightCandles",
+  "categories": [
+    "artesanato",
+    "iluminacao",
+    "aromas"
+  ],
+  "image": "purelightcandles.png",
+  "homepage": "https://www.purelightcandles.shop",
+  "facebook": "https://www.facebook.com/PurelightcandlesCo/",
+  "instagram": "https://www.instagram.com/purelightcandles/",
+  "description": {
+    "pt": "Velas feitas à mão, em pequenas quantidades, com cera de soja, óleos aromáticos naturais e óleos essenciais. Juntamos o poder da aromaterapia ao prazer de viajar a lugares mágicos para vos dar beleza e bem-estar.",
+    "en": "Handmade candles, in small quantities, with soy wax, natural aromatic oils and essential oils. We combine the power of aromatherapy with the pleasure of traveling to magical places to give you beauty and well-being."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f5"
+  },
+  "name": "Puzzle Family",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "bebe-criancas"
+  ],
+  "image": "puzzlefamily.png",
+  "homepage": "https://puzzlefamily.pt/",
+  "facebook": "https://facebook.com/puzzlefamily.pt/",
+  "instagram": "https://instagram.com/puzzlefamily/",
+  "description": {
+    "pt": "Somos uma marca 100% portuguesa que se dedica à produção de vestuário igual para toda a família, destacando-se no mercado nacional dos conjuntos matchy-matchy.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f6"
+  },
+  "name": "Quebramar",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios",
+    "malas",
+    "sapatos",
+    "bijuteria",
+    "meias"
+  ],
+  "image": "quebramar1989.png",
+  "homepage": "https://quebramar.com/",
+  "facebook": "https://facebook.com/Quebramar",
+  "instagram": "https://instagram.com/quebramar1989/",
+  "description": {
+    "pt": "A QUEBRAMAR FOI CRIADA EM 1989, NA VILA DE CASCAIS. A PAIXÃO PELA NÁUTICA FOI DESDE O PRIMEIRO MOMENTO A POSIÇÃO QUE A MARCA TOMOU, TORNANDO-A NUMA DAS MARCAS DE MODA DE REFERÊNCIA EM PORTUGAL. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f7"
+  },
+  "name": "Ramirez 1853",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "conservasramirez.png",
+  "homepage": "https://ramirez.pt/",
+  "facebook": "https://facebook.com/ramirez1853/",
+  "instagram": "https://instagram.com/conservasramirez/",
+  "description": {
+    "pt": "A Ramirez é um projecto de união familiar que constitui hoje a mais antiga empresa de conservas de peixe em laboração no mundo. Sardinhas, cavalas, atum e outras especialidades em diversas apresentações, incluindo água e também em azeite fumado.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f8"
+  },
+  "name": "Rita Catita",
+  "categories": [
+    "decoracao",
+    "ilustracoes"
+  ],
+  "image": "catitaillustrations.png",
+  "homepage": "https://catitaillustrations.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/catitaillustrations/",
+  "description": {
+    "pt": "Fundada na ideia de que as coisas bonitas podem fazer uma grande diferença. Acreditamos que mesmo essas coisas bonitas devem ser bem projetadas e servir a um propósito – mesmo que esse propósito seja só a diversão. Adoramos Posters, Paperbags, T-shirts… e entendemos o seu poder de fazer as pessoas sorrir. ;)",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249f9"
+  },
+  "name": "Rodilha",
+  "categories": [
+    "meias"
+  ],
+  "image": "rodilha.brand.png",
+  "homepage": "https://rodilha.com/",
+  "facebook": "https://facebook.com/rodilha/",
+  "instagram": "https://instagram.com/rodilha.brand/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249fa"
+  },
+  "name": "Rosa Malva",
+  "categories": [
+    "artesanato",
+    "decoracao"
+  ],
+  "image": "rosa_malva_atelier.png",
+  "homepage": "http://rosamalva.com/",
+  "facebook": "https://facebook.com/RosaMalvaAtelier/",
+  "instagram": "https://instagram.com/rosa_malva_atelier/",
+  "description": {
+    "pt": "A Rosa Malva é um atelier de design e peças de autor de Mané Pupo. Todo o fabrico é 100% manual, 100% português.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249fb"
+  },
+  "name": "Rufel",
+  "categories": [
+    "malas",
+    "acessorios"
+  ],
+  "image": "rufel_bags.png",
+  "homepage": "https://rufel.pt/",
+  "facebook": "https://facebook.com/malas.RUFEL/",
+  "instagram": "https://instagram.com/rufel_bags/",
+  "description": {
+    "pt": "A Rufel é uma marca portuguesa de malas e acessórios que nasceu em 1975. É um negócio familiar que desde sempre deu extrema importância à fase de produção, desde a seleção de matérias primas à criação dos artigos. Grande parte do processo de fabrico de produtos é feito artesanalmente e a marca distingue-se não só pela qualidade dos materiais que seleciona, como pela durabilidade do produto.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249fc"
+  },
+  "name": "rust & may",
+  "categories": [
+    "roupa-mulher",
+    "roupa-homem",
+    "decoracao"
+  ],
+  "image": "rustandmay.png",
+  "homepage": "https://rustandmay.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/rustandmay/",
+  "description": {
+    "pt": null,
+    "en": "Rust and May offers you more than just a product, it offers you a sublime experience. We give you cool statement pieces, with embroidered words that make you feel unique."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249fd"
+  },
+  "name": "rutz",
+  "categories": [
+    "sapatos",
+    "malas",
+    "acessorios",
+    "tableware",
+    "aromas",
+    "cortica",
+    "decoracao"
+  ],
+  "image": "rutzwalkincork.png",
+  "homepage": "https://rutz.pt/",
+  "facebook": "https://facebook.com/rutz.pt/",
+  "instagram": "https://instagram.com/rutzwalkincork/",
+  "description": {
+    "pt": null,
+    "en": "rutz is a Portuguese brand focused on eco vegan shoes, bags, accessories & home items, made from sustainable cork and other eco vegan materials."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249fe"
+  },
+  "name": "Sacoor Brothers",
+  "categories": [
+    "sapatos",
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios",
+    "malas"
+  ],
+  "image": "sacoorbrothers.png",
+  "homepage": "https://sacoorbrothers.com/",
+  "facebook": "https://facebook.com/SacoorBrothers/",
+  "instagram": "https://instagram.com/sacoorbrothers/",
+  "description": {
+    "pt": "A História da Sacoor Brothers não pode ser dissociada do sonho partilhado por quatro irmãos que, em 15 de Novembro de 1989, embarcaram na incrível aventura de construir uma marca que se pautasse por um estilo de vida marcante. A Sacoor Brothers a tornou-se, assim, numa reconhecida marca nas grandes capitais da moda nos dias de hoje.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b249ff"
+  },
+  "name": "Salsa",
+  "categories": [
+    "roupa-mulher",
+    "roupa-homem",
+    "acessorios",
+    "malas"
+  ],
+  "image": "salsaofficial.png",
+  "homepage": "https://salsajeans.com/",
+  "facebook": "https://facebook.com/Salsa/",
+  "instagram": "https://instagram.com/salsaofficial/",
+  "description": {
+    "pt": "A Salsa é uma marca portuguesa de jeanswear, presente já em 35 países, conhecida pela criação de produtos inovação como Push Up, Push In, Mystery e Diva.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a00"
+  },
+  "name": "Sampedro",
+  "categories": [
+    "texteis-lar"
+  ],
+  "image": "sampedrotexteislar.png",
+  "homepage": "http://sampedro.pt/",
+  "facebook": "https://facebook.com/sampedrotexteislar/",
+  "instagram": null,
+  "description": {
+    "pt": "Fundada em 1921, a SAMPEDRO engloba produtos para cama, mesa e banho com uma caraterística comum: a reconhecida qualidade de mais de nove décadas de experiência.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a01"
+  },
+  "name": "San Pi",
+  "categories": [
+    "tableware",
+    "ceramica"
+  ],
+  "image": "sanpi_tableset.png",
+  "homepage": "http://sanpi.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/sanpi_tableset/",
+  "description": {
+    "pt": "A tornar os momentos à mesa mais felizes e sustentáveis. Com coleções orgânicas de cerâmica 100% Portuguesa, a marca convida, através do seu site, à criação de um sem fim de conjugações descomplicadas, permitindo jogos de cores, formas e texturas. Desde os complementos essenciais para uma refeição, até aos tableset completos que irão transformar a sua mesa em toda uma nova experiência San Pi.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a02"
+  },
+  "name": "Sanjo ",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "originalsanjo.png",
+  "homepage": "https://sanjo.pt/",
+  "facebook": "https://facebook.com/SanjoNewOldBrand/",
+  "instagram": "https://instagram.com/originalsanjo/",
+  "description": {
+    "pt": "Faz parte do nosso legado, participa na nossa história e reinventa-te através de sapatilhas icónicas, com ADN exclusivo e qualidade made in Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a04"
+  },
+  "name": "Science4you",
+  "categories": [
+    "jogos-brinquedos"
+  ],
+  "image": "science4you_pt.png",
+  "homepage": "https://science4you.pt/",
+  "facebook": "https://facebook.com/Science4you/",
+  "instagram": "https://instagram.com/science4you_pt/",
+  "description": {
+    "pt": "A Science4you é uma empresa 100% portuguesa dedicada ao desenvolvimento, produção e comercialização de brinquedos educativos e científicos para crianças. Tudo preparado para horas de brincadeira e aprendizagem?",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a05"
+  },
+  "name": "Seaside",
+  "categories": [
+    "sapatos",
+    "acessorios",
+    "oculos-sol",
+    "malas",
+    "bijuteria"
+  ],
+  "image": "seaside.oficial.png",
+  "homepage": "https://seaside.pt/pt/pt",
+  "facebook": "https://facebook.com/seaside.oficial",
+  "instagram": "https://instagram.com/seaside.oficial/",
+  "description": {
+    "pt": "Somos uma marca internacional de origem portuguesa, com mais de 30 anos de experiência no sector do calçado e dos acessórios de moda. Cerca de 70% do calçado à venda nas nossas lojas é produzido em Portugal, o que permite acompanhar a produção e assegurar a qualidade, além de privilegiar o desenvolvimento e crescimento da economia do país, mais especificamente do sector da indústria do calçado.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a06"
+  },
+  "name": "Sharish",
+  "categories": [
+    "bebidas",
+    "gin"
+  ],
+  "image": "sharish_gin.png",
+  "homepage": "http://sharishgin.com/",
+  "facebook": "https://facebook.com/sharishgin/",
+  "instagram": "https://instagram.com/sharish_gin/",
+  "description": {
+    "pt": "O que distingue o Sharish Gin é o facto de utilizarmos maioritariamente produtos frescos e locais, bem como o método de infusão. Destilação utilizado com alambiques tradicionais portugueses e um processo de destilação lento que favorece a qualidade.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a07"
+  },
+  "name": "Sidrada",
+  "categories": [
+    "bebidas"
+  ],
+  "image": "sidra.sidrada.png",
+  "homepage": "https://sidrada.pt/",
+  "facebook": "https://facebook.com/sidra.sidrada/",
+  "instagram": "https://instagram.com/sidra.sidrada/",
+  "description": {
+    "pt": "Produção de Espumante de Sidra, sidra de maçã e vinagre de sidra. Produtos 100% sumo de maçã. Produzidos no Oeste de Portugal com as melhores maçãs do Bombarral.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a08"
+  },
+  "name": "Sienna",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "siennainspo.png",
+  "homepage": "https://siennainspo.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/siennainspo/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a09"
+  },
+  "name": "SIZ",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "sizbrand.png",
+  "homepage": "https://siz-online.com/",
+  "facebook": "https://facebook.com/sizbrand/",
+  "instagram": "https://instagram.com/sizbrand/",
+  "description": {
+    "pt": "A SIZ é uma marca de roupa de autor ética e sustentável, fundada pelas irmãs gémeas e designers de moda Raquel e Sofia. Inspirando-se em várias problemáticas ambientais e sociais, criam colecções que pretendem mudar mentalidades acerca da sustentabilidade e da protecção do nosso planeta.",
+    "en": "SIZ is an ethical and sustainable fashion brand, founded by twin sisters and fashion designers Raquel and Sofia. Inspired by several environmental and social issues, they create collections that aim to change mentalities about sustainability and protection of our planet."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0a"
+  },
+  "name": "SO-SO STORE",
+  "categories": [
+    "decoracao",
+    "ilustracoes"
+  ],
+  "image": "soso.store.pt.png",
+  "homepage": "https://sosostore.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/soso.store.pt/",
+  "description": {
+    "pt": "“SO SO” traduz-se em português como “ASSIM ASSIM”, expressão tão característica da identidade lusitana. Desta forma, criámos a “SO-SO STORE”, reflexo das nossas paixões, e que nos leva a criar objectos inspirados nos provérbios, adágios e expressões portuguesas.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0b"
+  },
+  "name": "Sovina",
+  "categories": [
+    "cerveja"
+  ],
+  "image": "cerveja_sovina.png",
+  "homepage": "https://sovina.pt/",
+  "facebook": "https://facebook.com/cervejartesanalsovina/",
+  "instagram": "https://instagram.com/cerveja_sovina/",
+  "description": {
+    "pt": "O projecto começou em 2009, com uma loja cervejeira vocacionada para a formação e disponibilização de equipamentos e matérias-primas para produção de cerveja caseira. Mais tarde, em 2011, depois de dois anos a elaborar lotes experimentais e apurar receitas, foram produzidas e engarrafadas as primeiras cervejas Sovina, recorrendo somente a ingredientes naturais.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0c"
+  },
+  "name": "Stylish Club",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "stylishclub_interiors.png",
+  "homepage": "http://stylishclub.pt/",
+  "facebook": "https://facebook.com/stylishclubc/",
+  "instagram": "https://instagram.com/stylishclub_interiors/",
+  "description": {
+    "pt": null,
+    "en": "Stylish Club stands out as a post-modern brand built on references from the past, while preserving the characteristics of a contemporary label."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0d"
+  },
+  "name": "Supr Natural",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "supr_original.png",
+  "homepage": "https://supr-natural.com/pt/shop/",
+  "facebook": null,
+  "instagram": "https://instagram.com/supr_original/",
+  "description": {
+    "pt": "A Supr Natural tem a missão de desenvolver produtos alimentares inovadores que aliam sabores únicos e originais à nossa saúde. Uma marca incomparável, não só pela sua história, como também pela sua visão na criação e inovação de produtos naturais com sabor inigualável.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0e"
+  },
+  "name": "Suta cosmetic",
+  "categories": [
+    "cuidado-pessoal"
+  ],
+  "image": "sutacosmetics.png",
+  "homepage": "https://sutacosmetic.com/",
+  "facebook": "https://facebook.com/sutacosmetics/",
+  "instagram": null,
+  "description": {
+    "pt": "A SUTA nasceu de uma paixão de Mirela Suta pelos dermocosméticos, o que motivou a busca por um ingrediente de grande potencial que pudesse enriquecer os cuidados com a saúde da pele.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a0f"
+  },
+  "name": "Tema",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "tema_creations.png",
+  "homepage": "https://temacreations.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/tema_creations/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a10"
+  },
+  "name": "Tesouros da Ria",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "tesourosdaria.png",
+  "homepage": "http://tesourosdaria.pt/",
+  "facebook": "https://facebook.com/tesourosdaria/",
+  "instagram": "https://instagram.com/tesourosdaria/",
+  "description": {
+    "pt": "Tesouros da Ria, é uma marcada de produtos artesanais, que possuem na sua composição ingredientes provenientes da Ria de Aveiro. Algas, flor de sal, salicórnia e gramata branca são alguns dos \"tesouros\" extraídos da Ria de Aveiro, que em conjunto com ingredientes selecionados, resultam numa deliciosa explosão de sabor. Prove e delicie-se.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a11"
+  },
+  "name": "THE CAPTAIN SOCKS",
+  "categories": [
+    "meias"
+  ],
+  "image": "thecaptainsocks.png",
+  "homepage": "https://thecaptainsocks.com/",
+  "facebook": "https://facebook.com/thecaptainsocks/",
+  "instagram": "https://instagram.com/thecaptainsocks/",
+  "description": {
+    "pt": "Aqui em Portugal, onde desenhamos e produzimos as nossas meias, temos uma forte tradição nos têxteis e adoramos o que fazemos, e por isso criamos a The Captain Socks. Escolhemos cuidadosamente as nossas matérias-primas e a integração da melhor tecnologia para produzir meias de alta qualidade e duradouras (sem costuras, algodão penteado, 200 agulhas e acabamento jackard).",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a12"
+  },
+  "name": "The D'ECO Lifestyle",
+  "categories": [
+    "bijuteria"
+  ],
+  "image": "thedeco.life.png",
+  "homepage": "https://thedeco.life/",
+  "facebook": "https://facebook.com/thedeco.life/",
+  "instagram": "https://instagram.com/thedeco.life/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a13"
+  },
+  "name": "The Lover’s Lover",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "theloverslover.png",
+  "homepage": "https://theloverslover.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/theloverslover/",
+  "description": {
+    "pt": null,
+    "en": "Sustainable perfect clothes made from high quality deadstock fabrics. We are a designer, an engineer and a pharmacist, strongly passionate about fashion. We like our clothes a bit rocker, a bit messy, always timeless, brand new or second hand, it doesn’t matter. "
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a14"
+  },
+  "name": "Throttleman",
+  "categories": [
+    "roupa-homem",
+    "roupa-mulher",
+    "acessorios",
+    "meias",
+    "sapatos"
+  ],
+  "image": "throttleman_oficial.png",
+  "homepage": "https://throttleman.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/throttleman_oficial/",
+  "description": {
+    "pt": "A THROTTLEMAN é uma marca paradigmática de sucesso na categoria de vestuário masculino e feminino. Criada em 1991, diferencia-se por um estilo de vida prático, descontraído, direcionada a todos os que não prescindem do conforto. Prima não só pela qualidade dos produtos e materiais, mas também pela riqueza nos detalhes de acabamento, de modo a proporcionar uma elevada relação conforto - durabilidade.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a15"
+  },
+  "name": "TOINO ABEL",
+  "categories": [
+    "malas"
+  ],
+  "image": "toino_abel.png",
+  "homepage": "https://toinoabel.com/",
+  "facebook": "https://facebook.com/toinoabel/",
+  "instagram": "https://instagram.com/toino_abel/",
+  "description": {
+    "pt": null,
+    "en": "Toino Abel makes beautiful traditional handmade straw bags. All craft is done by a new generation of local artisans in Portugal, Europe in a sustainable and conscious way. We sell online and ship worldwide."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a16"
+  },
+  "name": "Traces of Me",
+  "categories": [
+    "roupa-mulher",
+    "acessorios",
+    "decoracao",
+    "iluminacao"
+  ],
+  "image": "tracesofmetm.png",
+  "homepage": "https://tracesofmetm.com/",
+  "facebook": "https://facebook.com/Tracesofmetm/",
+  "instagram": "https://instagram.com/tracesofmetm/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a17"
+  },
+  "name": "Treze",
+  "categories": [
+    "artesanato",
+    "decoracao"
+  ],
+  "image": "Trezeaderecosreligiosos.png",
+  "homepage": "https://trezeaderecosreligiosos.pt/",
+  "facebook": "https://facebook.com/Trezeaderecosreligiosos/",
+  "instagram": null,
+  "description": {
+    "pt": "A Treze surge do desejo de inovar no mercado a oferta de artigos religiosos, fazendo renascer valores antigos, mas presentes nas necessidades da sociedade de hoje.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a18"
+  },
+  "name": "Trouxa-Mocha",
+  "categories": [
+    "sapatos",
+    "acessorios"
+  ],
+  "image": "trouxa_mocha.png",
+  "homepage": "https://trouxamocha.com/",
+  "facebook": "https://facebook.com/trouxamocha/",
+  "instagram": "https://instagram.com/trouxa_mocha/",
+  "description": {
+    "pt": null,
+    "en": "Trouxa Mocha is a lifestyle label inspired by the portuguese heritage, its people and traditions.our aim is to work in a stragth relationship with some of the best local workshops, crossing their knowledge with a single approach to the design."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a19"
+  },
+  "name": "Type ",
+  "categories": [
+    "lingerie",
+    "beachswimwear"
+  ],
+  "image": "ilovetype.png",
+  "homepage": "https://type.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/ilovetype/",
+  "description": {
+    "pt": "A Type é uma marca de swimwear, criada e confeccionada em Portugal por uma equipa empenhada em produzir peças únicas e com qualidade premium! Idealizadas por mentes criativas, com os melhores materiais e trabalhadas pelas mãos mais experientes, nascem as peças que vão invadir as praias de um estilo girly, que não vai deixar ninguém indiferente. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1a"
+  },
+  "name": "Uma Cantik ",
+  "categories": [
+    "decoracao",
+    "artesanato",
+    "texteis-lar"
+  ],
+  "image": "umacantikhome.png",
+  "homepage": "https://umacantik.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/umacantikhome/",
+  "description": {
+    "pt": null,
+    "en": "Ethically sourced home decor with character. Handmade by artisans. Uma Cantik was born from hope and desire. A desire to bring you the most beautiful products that this world has to offer. A hope that together we can work towards a world that is more just and fair. Join us on this exciting getaway."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1b"
+  },
+  "name": "Undandy",
+  "categories": [
+    "sapatos",
+    "acessorios",
+    "meias"
+  ],
+  "image": "undandyshoes.png",
+  "homepage": "https://undandy.com/",
+  "facebook": "https://facebook.com/undandyshoes/",
+  "instagram": "https://instagram.com/undandyshoes/?hl=pt/",
+  "description": {
+    "pt": null,
+    "en": "Undandys are proudly handcrafted in a third-generation shoe workshop in São João da Madeira, often referred to as the shoe capital of Portugal. Portuguese craftsmanship is world renowned, most of our cobblers have been working with shoes for over 40 years passed from generation to generation, with incredible passion and dedication to crafting each and every pair of shoes."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1c"
+  },
+  "name": "Under Sleepwear",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "undersleepwear.png",
+  "homepage": "https://pt.undersleepwear.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/undersleepwear/",
+  "description": {
+    "pt": "Tendo a qualidade como nossa prioridade, a Under Sleepwear surge da ideia de transpor a moda para a linha de roupa de noite devido à oferta reduzida que encontramos no mercado, sem nunca descurar as duas principais fontes de inspiração da marca: Conforto e Elegância.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1d"
+  },
+  "name": "Urbana-LX",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "urbanastudiolx.png",
+  "homepage": "https://urbanalx.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/urbanastudiolx/",
+  "description": {
+    "pt": "A Urbanastudio nasceu de uma vontade de produzir peças roupas que permitam à mulher ser a melhor versão de si mesma num mundo acelerado. A nossa missão é criar peças intemporais, que durem uma vida: peças minimalistas, com design intemporal, aliadas a um processo transparente , justo e sustentável.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1e"
+  },
+  "name": "Vadia",
+  "categories": [
+    "cerveja"
+  ],
+  "image": "cervejavadia.png",
+  "homepage": "http://cervejavadia.pt/",
+  "facebook": "https://facebook.com/CervejaVadia/",
+  "instagram": "https://instagram.com/cervejavadia/",
+  "description": {
+    "pt": "Sediada em Ossela, Oliveira de Azeméis, a Cerveja Vadia foi pioneira no mercado da cerveja artesanal em Portugal. Com reconhecimento nacional e internacional, já conquistou inúmeras medalhas nos principais concursos internacionais de cerveja, nomeadamente World Beer Awards, World Cider Awards, Brussels Beer Challenge e Concours International de Lyon.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a1f"
+  },
+  "name": "Vermuiz",
+  "categories": [
+    "bebidas",
+    "gin"
+  ],
+  "image": "vermuizdrygin.png",
+  "homepage": "https://vermuiz.com/",
+  "facebook": "https://facebook.com/vermuizdrygin/",
+  "instagram": null,
+  "description": {
+    "pt": "Um gin com inspirações e características do Minho: forte, combativo e moldável a cada palato.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a20"
+  },
+  "name": "Vicaima",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "vicaimadoors.png",
+  "homepage": "https://vicaima.com/",
+  "facebook": "https://facebook.com/vicaima/",
+  "instagram": "https://instagram.com/vicaimadoors/",
+  "description": {
+    "pt": "Vicaima é um dos maiores produtores europeus de portas de interior em madeira, portas corta-fogo, portas de segurança, portas acústicas e roupeiros ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a21"
+  },
+  "name": "Vicara",
+  "categories": [
+    "tableware",
+    "decoracao"
+  ],
+  "image": "vicara_design.png",
+  "homepage": "https://vicara.pt/",
+  "facebook": "https://facebook.com/VICARA.design/",
+  "instagram": "https://instagram.com/vicara_design/",
+  "description": {
+    "pt": null,
+    "en": "We are a product design brand that edits pieces from a thriving community of designers and makers sharing the same spirit that defines VICARA since the beginning: love for materials, traditional expertise and process investigation. Currently offering more than 50 products for the home, all locally made in Portugal."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a22"
+  },
+  "name": "Vista Alegre",
+  "categories": [
+    "tableware",
+    "decoracao"
+  ],
+  "image": "vistaalegreofficial.png",
+  "homepage": "https://vistaalegre.com/",
+  "facebook": "https://facebook.com/vistaalegreofficial/",
+  "instagram": "https://instagram.com/vistaalegreofficial/",
+  "description": {
+    "pt": "Compre na loja online Vista Alegre artigos de luxo de porcelana, cristal, vidro, serviços de mesa, peças decorativas e presentes.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a23"
+  },
+  "name": "West Mister",
+  "categories": [
+    "meias"
+  ],
+  "image": "westmister_.jpg",
+  "homepage": "https://www.westmister.pt/",
+  "facebook": "https://facebook.com/westmistersocks/",
+  "instagram": "https://instagram.com/westmister_/",
+  "description": {
+    "pt": "É de pequenos grandes detalhes que é feita esta marca de meias masculinas. De fabrico 100% Português, WestMister é uma marca de meias que visa promover a identidade do produto nacional e conquistar os mais exigentes mercados internacionais. A irreverência e a qualidade são as principais caraterísticas da marca.",
+    "en": "It is of small great details that this Brand of Men's socks is made. 100% Made in Portugal, WestMister is a Portuguese Brand of Socks that aims at promoting the identity of the national product and conquering the most demanding international markets. The irreverence and quality are the main characteristics of our Brand."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a24"
+  },
+  "name": "Wewood ",
+  "categories": [
+    "mobiliario"
+  ],
+  "image": "wewoodportuguesejoinery.png",
+  "homepage": "https://wewood.eu/",
+  "facebook": "https://facebook.com/wewoodportuguesejoinery/",
+  "instagram": "https://instagram.com/wewoodportuguesejoinery/",
+  "description": {
+    "pt": null,
+    "en": "Wewood is a Portuguese brand with an extensive experience in high-end joinery to produce superb intemporal furniture that promotes Portuguese culture and design."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a25"
+  },
+  "name": "Wheat & Rose",
+  "categories": [
+    "roupa-mulher"
+  ],
+  "image": "wheatandrose.png",
+  "homepage": "https://wheatrose.com/",
+  "facebook": "https://facebook.com/Wheat-Rose-2234460346576466/",
+  "instagram": "https://instagram.com/wheatandrose/",
+  "description": {
+    "pt": "Marca Portuguesa de affordable luxury inspirada na minha bisavó Angela.",
+    "en": "Affordable luxury portuguese brand inspired in my great-grandmother - Angela."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a26"
+  },
+  "name": "WO design",
+  "categories": [
+    "acessorios"
+  ],
+  "image": "wo_official.png",
+  "homepage": "http://wodesign.pt/",
+  "facebook": "https://facebook.com/WOdesignlab/",
+  "instagram": "https://instagram.com/wo_official/",
+  "description": {
+    "pt": null,
+    "en": "Created by Ricardo Santos and Nádia Barbosa, both in love with the concept of organic and functional design, WO design started in 2014 with the development of the brand’s image and the creation of the first product, the WO wallet."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a27"
+  },
+  "name": "Xadrez às Riscas",
+  "categories": [
+    "decoracao",
+    "iluminacao",
+    "ilustracoes",
+    "jogos-brinquedos"
+  ],
+  "image": "xadrezasriscas.png",
+  "homepage": "https://xadrezasriscas.pt/",
+  "facebook": null,
+  "instagram": "https://instagram.com/xadrezasriscas/",
+  "description": {
+    "pt": "Formado em 2015, pela direção criativa de João Campos Silva e Eliana Costa, o Xadrez às Riscas é uma marca Portuguese que combina o design e a madeira para a construção de objetos de iluminação e decoração infantil. Todos os produtos são feitos, montados e pintados à mão. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a28"
+  },
+  "name": "Yntenzo",
+  "categories": [
+    "cuidado-pessoal",
+    "aromas"
+  ],
+  "image": "yntenzo.png",
+  "homepage": "https://yntenzo.com/",
+  "facebook": "https://facebook.com/Yntenzo/",
+  "instagram": "https://instagram.com/yntenzo/",
+  "description": {
+    "pt": "A Yntenzo é uma perfumaria artesanal com fragrâncias exclusivas, elaboradas por verdadeiros mestres perfumistas através da seleção dos melhores ingredientes naturais, oriundos de diferentes partes do mundo. ",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a29"
+  },
+  "name": "YONEST",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "yonestyogurt.png",
+  "homepage": "https://yonest.com/",
+  "facebook": "https://facebook.com/yonestyogurt/",
+  "instagram": "https://instagram.com/yonestyogurt/",
+  "description": {
+    "pt": "Iogurte caseiro feito sem pressa, com ingredientes puros, naturais e o melhor leite fresco do dia. Sem corantes, conservantes, açúcar ou natas. Yonest é good like home.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a2a"
+  },
+  "name": "Zé Picolé",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "ze_picole.png",
+  "homepage": "https://zepicole.pt/",
+  "facebook": "https://facebook.com/projetozepicole/",
+  "instagram": "https://instagram.com/ze_picole/",
+  "description": {
+    "pt": "Picolé artesanal de fruta 100% natural, sem adição de químicos e conservantes, rico em fibras, em diversas gamas: sem glutén, baixas calorias, sem adição de açúcar, sem lactose e gama espiritual para adultos.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a2b"
+  },
+  "name": "Zilian",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "zilianchoose.png",
+  "homepage": "https://zilian.com/",
+  "facebook": "https://facebook.com/zilian/",
+  "instagram": "https://instagram.com/zilianchoose/",
+  "description": {
+    "pt": null,
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a2c"
+  },
+  "name": "Zippy",
+  "categories": [
+    "bebe-criancas"
+  ],
+  "image": "zippykidstore.png",
+  "homepage": "https://zippyonline.com/",
+  "facebook": "https://facebook.com/zykidstore/",
+  "instagram": "https://instagram.com/zippykidstore/",
+  "description": {
+    "pt": "A Zippy é uma marca portuguesa com mais de duas décadas de experiência consolidada no setor do retalho. Fundada em 1996, no Porto, beneficiamos do reconhecido know-how especializado da indústria têxtil portuguesa, no norte de Portugal.",
+    "en": null
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "5ffcd7f06dc149d936b24a2d"
+  },
+  "name": "Zouri",
+  "categories": [
+    "sapatos"
+  ],
+  "image": "zouriveganshoes.png",
+  "homepage": "https://zouri-shoes.com/",
+  "facebook": null,
+  "instagram": "https://instagram.com/zouriveganshoes/",
+  "description": {
+    "pt": "A ZOURI é uma marca de calçado Eco-Vegan com Lixo Plástico do Oceano. Um manifesto de sustentabilidade e de comércio justo com a seleção de materiais sustentáveis, naturais e éticos, como o pinatex - feito com folhas de ananás, pele de maçã, algodão orgânico certificado, cânhamo e linho produzido na Europa, cortiça e borracha natural. Feitos à mão localmente de forma justa em Guimarães.",
+    "en": "ZOURI is an Eco-Vegan footwear brand made with Plastic Waste from the Ocean. A manifest of sustainability and fair trade with the selection of sustainable, natural and ethical materials, such as pinatex - made with pineapple leaves, apple leather, certified organic cotton, hemp and linen produced in Europe, cork and natural rubber. Hand made locally in a fair way in Guimarães."
+  },
+  "added": "2021-01-11T21:08:25.570784"
+},{
+  "_id": {
+    "$oid": "6019870fbf7c0b594ec7922e"
+  },
+  "name": "O Gelado",
+  "categories": [
+    "alimentacao"
+  ],
+  "image": "o_gelado.png",
+  "homepage": "https://ogelado.pt/",
+  "facebook": "https://www.facebook.com/ogelado/",
+  "instagram": "https://www.instagram.com/ogeladoportugal/",
+  "description": {
+    "pt": "A nossa paixão levou-nos a querer mais. A fazer um gelado que não fosse apenas um gelado, mas sim uma experiência memorável de sabor, textura e criatividade. Com todo o respeito pelo planeta e pela comunidade que nos segue desde que a amêndoa sonhou ser A Tarte.",
+    "en": null
+  },
+  "added": "2021-02-02T17:05:06.826071"
+}]

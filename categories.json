@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b2"
+  },
+  "name": "alimentacao",
+  "color": "#D79922",
+  "label": {
+    "pt": "Alimentação",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "azeite",
+      "label": {
+        "pt": "Azeite",
+        "en": null
+      }
+    },
+    {
+      "name": "chocolate",
+      "label": {
+        "pt": "Chocolate",
+        "en": null
+      }
+    },
+    {
+      "name": "mel",
+      "label": {
+        "pt": "Mel",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b3"
+  },
+  "name": "artesanato",
+  "color": "#E3AFBC",
+  "label": {
+    "pt": "Artesanato",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "ceramica",
+      "label": {
+        "pt": "Cerâmica",
+        "en": null
+      }
+    },
+    {
+      "name": "cortica",
+      "label": {
+        "pt": "Cortiça",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b4"
+  },
+  "name": "bebe-criancas",
+  "color": "#85CDCA",
+  "label": {
+    "pt": "Bebé & Crianças",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "jogos-brinquedos",
+      "label": {
+        "pt": "Jogos & Brinquedos",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b5"
+  },
+  "name": "bebidas",
+  "color": "#F76C6C",
+  "label": {
+    "pt": "Bebidas",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "cerveja",
+      "label": {
+        "pt": "Cerveja Artesanal",
+        "en": null
+      }
+    },
+    {
+      "name": "gin",
+      "label": {
+        "pt": "Gin",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b6"
+  },
+  "name": "calcado",
+  "color": "#9B786F",
+  "label": {
+    "pt": "Calçado",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "meias",
+      "label": {
+        "pt": "Meias",
+        "en": null
+      }
+    },
+    {
+      "name": "sapatos",
+      "label": {
+        "pt": "Sapatos",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b7"
+  },
+  "name": "casa",
+  "color": "#9280a8",
+  "label": {
+    "pt": "Casa",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "animais",
+      "label": {
+        "pt": "Animais de estimação",
+        "en": null
+      }
+    },
+    {
+      "name": "aromas",
+      "label": {
+        "pt": "Aromas",
+        "en": null
+      }
+    },
+    {
+      "name": "decoracao",
+      "label": {
+        "pt": "Decoração",
+        "en": null
+      }
+    },
+    {
+      "name": "iluminacao",
+      "label": {
+        "pt": "Iluminação",
+        "en": null
+      }
+    },
+    {
+      "name": "ilustracoes",
+      "label": {
+        "pt": "Ilustrações",
+        "en": null
+      }
+    },
+    {
+      "name": "material-escritorio",
+      "label": {
+        "pt": "Material de escritório",
+        "en": null
+      }
+    },
+    {
+      "name": "mobiliario",
+      "label": {
+        "pt": "Mobiliário",
+        "en": null
+      }
+    },
+    {
+      "name": "tableware",
+      "label": {
+        "pt": "Tableware",
+        "en": null
+      }
+    },
+    {
+      "name": "texteis-lar",
+      "label": {
+        "pt": "Têxteis-Lar",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b8"
+  },
+  "name": "cuidado-pessoal",
+  "color": "#F8E9A1",
+  "label": {
+    "pt": "Cuidado Pessoal",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "cosmetica",
+      "label": {
+        "pt": "Cosmética",
+        "en": null
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ffc94ef6dc149d936b246b9"
+  },
+  "name": "vestuario",
+  "color": "#41B3A3",
+  "label": {
+    "pt": "Vestuário",
+    "en": null
+  },
+  "subcategories": [
+    {
+      "name": "acessorios",
+      "label": {
+        "pt": "Acessórios",
+        "en": null
+      }
+    },
+    {
+      "name": "beachswimwear",
+      "label": {
+        "pt": "Beach/Swimwear",
+        "en": null
+      }
+    },
+    {
+      "name": "bijuteria",
+      "label": {
+        "pt": "Bijuteria",
+        "en": null
+      }
+    },
+    {
+      "name": "joalharia",
+      "label": {
+        "pt": "Joalharia",
+        "en": null
+      }
+    },
+    {
+      "name": "lingerie",
+      "label": {
+        "pt": "Lingerie",
+        "en": null
+      }
+    },
+    {
+      "name": "malas",
+      "label": {
+        "pt": "Malas",
+        "en": null
+      }
+    },
+    {
+      "name": "oculos-sol",
+      "label": {
+        "pt": "Óculos de sol",
+        "en": null
+      }
+    },
+    {
+      "name": "roupa-homem",
+      "label": {
+        "pt": "Roupa Homem",
+        "en": null
+      }
+    },
+    {
+      "name": "roupa-mulher",
+      "label": {
+        "pt": "Roupa Mulher",
+        "en": null
+      }
+    }
+  ]
+}]
